@@ -1,0 +1,20 @@
+{
+  "name": "pokelocations",
+  "version": "1.0.0",
+  "description": "Tool that generates a yaml file used for the Pokemon Team Planner",
+  "main": "scrapper.min.js",
+  "scripts": {
+    "build": "npm build",
+    "scrape": "node scrapper.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainbowrocket-dev/PokeLocations.git"
+  },
+  "author": "Branden Higby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainbowrocket-dev/PokeLocations/issues"
+  },
+  "homepage": "https://github.com/rainbowrocket-dev/PokeLocations#readme"
+}
