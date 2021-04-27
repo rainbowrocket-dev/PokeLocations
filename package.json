@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/rainbowrocket-dev/PokeLocations.git"
   },
-  "author": "Branden Higby",
+  "author": {
+    "name": "Branden Higby",
+    "email": "team@rainbowrocket.dev",
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rainbowrocket-dev/PokeLocations/issues"
@@ -20,6 +23,6 @@
     "pokedex-promise-v2": "^3.3.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/rainbowrocket-dev"
   }
 }
