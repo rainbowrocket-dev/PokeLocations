@@ -4,7 +4,6 @@
   "description": "Tool that generates a yaml file used for the Pokemon Team Planner",
   "main": "scrapper.min.js",
   "scripts": {
-    "build": "npm build",
     "scrape": "node scrapper.min.js"
   },
   "repository": {
@@ -16,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/rainbowrocket-dev/PokeLocations/issues"
   },
-  "homepage": "https://github.com/rainbowrocket-dev/PokeLocations#readme"
+  "homepage": "https://github.com/rainbowrocket-dev/PokeLocations#readme",
+  "dependencies": {
+    "pokedex-promise-v2": "^3.3.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }

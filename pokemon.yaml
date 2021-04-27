@@ -1,1435 +1,220 @@
-- species: sirfetchd 
-  	 gen: viii 
-  	 foundAs: farfetchd 
-  	 types: 
-  	 - fighting 
- - species: perrserker 
+- species: perrserker 
   	 gen: viii 
   	 foundAs: meowth 
   	 types: 
   	 - steel 
- - species: sylveon 
-  	 gen: vi 
-  	 foundAs: eevee 
-  	 types: 
-  	 - fairy 
- - species: glaceon 
-  	 gen: iv 
-  	 foundAs: eevee 
-  	 types: 
-  	 - ice 
- - species: leafeon 
-  	 gen: iv 
-  	 foundAs: eevee 
-  	 types: 
-  	 - grass 
- - species: flareon 
-  	 gen: i 
-  	 foundAs: eevee 
-  	 types: 
-  	 - fire 
- - species: vaporeon 
-  	 gen: i 
-  	 foundAs: eevee 
-  	 types: 
-  	 - water 
- - species: omastar 
-  	 gen: i 
-  	 foundAs: omanyte 
-  	 types: 
-  	 - rock 
-  	 - water 
- - species: umbreon 
-  	 gen: ii 
-  	 foundAs: eevee 
-  	 types: 
-  	 - dark 
- - species: jolteon 
-  	 gen: i 
-  	 foundAs: eevee 
-  	 types: 
-  	 - electric 
- - species: runerigus 
+ - species: sirfetchd 
   	 gen: viii 
-  	 foundAs: yamask 
-  	 types: 
-  	 - ground 
-  	 - ghost 
- - species: togekiss 
-  	 gen: iv 
-  	 foundAs: togepi 
-  	 types: 
-  	 - fairy 
-  	 - flying 
- - species: espeon 
-  	 gen: ii 
-  	 foundAs: eevee 
-  	 types: 
-  	 - psychic 
- - species: barraskewda 
-  	 gen: viii 
-  	 foundAs: arrokuda 
-  	 types: 
-  	 - water 
- - species: grapploct 
-  	 gen: viii 
-  	 foundAs: clobbopus 
+  	 foundAs: farfetchd 
   	 types: 
   	 - fighting 
- - species: cinderace 
-  	 gen: viii 
-  	 foundAs: scorbunny 
-  	 types: 
-  	 - fire 
- - species: pincurchin 
-  	 gen: viii 
-  	 types: 
-  	 - electric 
- - species: frosmoth 
-  	 gen: viii 
-  	 foundAs: snom 
-  	 types: 
-  	 - ice 
-  	 - bug 
- - species: falinks 
-  	 gen: viii 
-  	 types: 
-  	 - fighting 
- - species: dracozolt 
-  	 gen: viii 
-  	 types: 
-  	 - electric 
-  	 - dragon 
  - species: mr-rime 
   	 gen: viii 
   	 foundAs: mime-jr 
   	 types: 
   	 - ice 
   	 - psychic 
- - species: centiskorch 
-  	 gen: viii 
-  	 foundAs: sizzlipede 
+ - species: ditto 
+  	 gen: i 
   	 types: 
-  	 - fire 
-  	 - bug 
- - species: morpeko 
-  	 gen: viii 
-  	 types: 
-  	 - electric 
-  	 - dark 
- - species: hatterene 
-  	 gen: viii 
-  	 foundAs: hatenna 
-  	 types: 
-  	 - psychic 
-  	 - fairy 
- - species: rillaboom 
-  	 gen: viii 
-  	 foundAs: grookey 
-  	 types: 
-  	 - grass 
- - species: copperajah 
-  	 gen: viii 
-  	 foundAs: cufant 
-  	 types: 
-  	 - steel 
- - species: drednaw 
-  	 gen: viii 
-  	 foundAs: chewtle 
-  	 types: 
-  	 - water 
-  	 - rock 
- - species: polteageist 
-  	 gen: viii 
-  	 foundAs: sinistea 
-  	 types: 
-  	 - ghost 
- - species: grimmsnarl 
-  	 gen: viii 
-  	 foundAs: impidimp 
-  	 types: 
-  	 - dark 
-  	 - fairy 
+  	 - normal 
  - species: cursola 
   	 gen: viii 
   	 foundAs: corsola 
   	 types: 
   	 - ghost 
- - species: appletun 
-  	 gen: viii 
-  	 foundAs: applin 
+ - species: unown 
+  	 gen: ii 
   	 types: 
-  	 - grass 
-  	 - dragon 
+  	 - psychic 
  - species: obstagoon 
   	 gen: viii 
   	 foundAs: zigzagoon 
   	 types: 
   	 - dark 
   	 - normal 
- - species: inteleon 
-  	 gen: viii 
-  	 foundAs: sobble 
-  	 types: 
-  	 - water 
- - species: melmetal 
-  	 gen: vii 
-  	 foundAs: meltan 
-  	 types: 
-  	 - steel 
- - species: tapu-koko 
-  	 gen: vii 
-  	 types: 
-  	 - electric 
-  	 - fairy 
- - species: unown 
+ - species: wobbuffet 
   	 gen: ii 
+  	 foundAs: wynaut 
   	 types: 
   	 - psychic 
- - species: typhlosion 
-  	 gen: ii 
-  	 foundAs: cyndaquil 
-  	 types: 
-  	 - fire 
- - species: blastoise 
-  	 gen: i 
-  	 foundAs: squirtle 
-  	 types: 
-  	 - water 
- - species: steelix 
-  	 gen: ii 
-  	 foundAs: onix 
-  	 types: 
-  	 - steel 
-  	 - ground 
- - species: butterfree 
-  	 gen: i 
-  	 foundAs: caterpie 
-  	 types: 
-  	 - bug 
-  	 - flying 
- - species: golduck 
-  	 gen: i 
-  	 foundAs: psyduck 
-  	 types: 
-  	 - water 
- - species: beedrill 
-  	 gen: i 
-  	 foundAs: weedle 
-  	 types: 
-  	 - bug 
-  	 - poison 
- - species: cloyster 
-  	 gen: i 
-  	 foundAs: shellder 
-  	 types: 
-  	 - water 
-  	 - ice 
- - species: bellossom 
-  	 gen: ii 
-  	 foundAs: oddish 
-  	 types: 
-  	 - grass 
- - species: dewgong 
-  	 gen: i 
-  	 foundAs: seel 
-  	 types: 
-  	 - water 
-  	 - ice 
- - species: ninetales 
-  	 gen: i 
-  	 foundAs: vulpix 
-  	 types: 
-  	 - fire 
  - species: vileplume 
   	 gen: i 
   	 foundAs: oddish 
   	 types: 
   	 - grass 
   	 - poison 
- - species: crobat 
+ - species: bellossom 
   	 gen: ii 
-  	 foundAs: zubat 
-  	 types: 
-  	 - poison 
-  	 - flying 
- - species: marowak 
-  	 gen: i 
-  	 foundAs: cubone 
-  	 types: 
-  	 - ground 
- - species: raticate 
-  	 gen: i 
-  	 foundAs: rattata 
-  	 types: 
-  	 - normal 
- - species: nidoqueen 
-  	 gen: i 
-  	 foundAs: nidoran-f 
-  	 types: 
-  	 - poison 
-  	 - ground 
- - species: venusaur 
-  	 gen: i 
-  	 foundAs: bulbasaur 
+  	 foundAs: oddish 
   	 types: 
   	 - grass 
-  	 - poison 
- - species: clefable 
-  	 gen: i 
-  	 foundAs: cleffa 
-  	 types: 
-  	 - fairy 
- - species: wigglytuff 
-  	 gen: i 
-  	 foundAs: igglybuff 
-  	 types: 
-  	 - normal 
-  	 - fairy 
- - species: parasect 
-  	 gen: i 
-  	 foundAs: paras 
-  	 types: 
-  	 - bug 
-  	 - grass 
- - species: venomoth 
-  	 gen: i 
-  	 foundAs: venonat 
-  	 types: 
-  	 - bug 
-  	 - poison 
- - species: kingler 
-  	 gen: i 
-  	 foundAs: krabby 
-  	 types: 
-  	 - water 
- - species: raichu 
-  	 gen: i 
-  	 foundAs: pichu 
-  	 types: 
-  	 - electric 
- - species: seaking 
-  	 gen: i 
-  	 foundAs: goldeen 
-  	 types: 
-  	 - water 
- - species: poliwrath 
-  	 gen: i 
-  	 foundAs: poliwag 
-  	 types: 
-  	 - water 
-  	 - fighting 
- - species: alakazam 
-  	 gen: i 
-  	 foundAs: abra 
-  	 types: 
-  	 - psychic 
- - species: muk 
-  	 gen: i 
-  	 foundAs: grimer 
-  	 types: 
-  	 - poison 
- - species: primeape 
-  	 gen: i 
-  	 foundAs: mankey 
-  	 types: 
-  	 - fighting 
- - species: kangaskhan 
-  	 gen: i 
-  	 types: 
-  	 - normal 
- - species: starmie 
-  	 gen: i 
-  	 foundAs: staryu 
-  	 types: 
-  	 - water 
-  	 - psychic 
- - species: noctowl 
-  	 gen: ii 
-  	 foundAs: hoothoot 
-  	 types: 
-  	 - normal 
-  	 - flying 
- - species: politoed 
-  	 gen: ii 
-  	 foundAs: poliwag 
-  	 types: 
-  	 - water 
- - species: sandslash 
-  	 gen: i 
-  	 foundAs: sandshrew 
-  	 types: 
-  	 - ground 
- - species: magnezone 
-  	 gen: iv 
-  	 foundAs: magnemite 
-  	 types: 
-  	 - electric 
-  	 - steel 
- - species: dugtrio 
-  	 gen: i 
-  	 foundAs: diglett 
-  	 types: 
-  	 - ground 
- - species: arbok 
-  	 gen: i 
-  	 foundAs: ekans 
-  	 types: 
-  	 - poison 
- - species: rapidash 
-  	 gen: i 
-  	 foundAs: ponyta 
-  	 types: 
-  	 - fire 
- - species: simisage 
-  	 gen: v 
-  	 foundAs: pansage 
-  	 types: 
-  	 - grass 
- - species: arcanine 
-  	 gen: i 
-  	 foundAs: growlithe 
-  	 types: 
-  	 - fire 
- - species: simisear 
-  	 gen: v 
-  	 foundAs: pansear 
-  	 types: 
-  	 - fire 
- - species: slowbro 
-  	 gen: i 
-  	 foundAs: slowpoke 
-  	 types: 
-  	 - water 
-  	 - psychic 
- - species: dodrio 
-  	 gen: i 
-  	 foundAs: doduo 
-  	 types: 
-  	 - normal 
-  	 - flying 
- - species: musharna 
-  	 gen: v 
-  	 foundAs: munna 
-  	 types: 
-  	 - psychic 
- - species: blissey 
-  	 gen: ii 
-  	 foundAs: happiny 
-  	 types: 
-  	 - normal 
- - species: aerodactyl 
-  	 gen: i 
-  	 types: 
-  	 - rock 
-  	 - flying 
- - species: simipour 
-  	 gen: v 
-  	 foundAs: panpour 
-  	 types: 
-  	 - water 
- - species: golem 
-  	 gen: i 
-  	 foundAs: geodude 
-  	 types: 
-  	 - rock 
-  	 - ground 
- - species: lilligant 
-  	 gen: v 
-  	 foundAs: petilil 
-  	 types: 
-  	 - grass 
- - species: excadrill 
-  	 gen: v 
-  	 foundAs: drilbur 
-  	 types: 
-  	 - ground 
-  	 - steel 
- - species: snorlax 
-  	 gen: i 
-  	 foundAs: munchlax 
-  	 types: 
-  	 - normal 
- - species: gigalith 
-  	 gen: v 
-  	 foundAs: roggenrola 
-  	 types: 
-  	 - rock 
- - species: crustle 
-  	 gen: v 
-  	 foundAs: dwebble 
-  	 types: 
-  	 - bug 
-  	 - rock 
- - species: spiritomb 
-  	 gen: iv 
-  	 types: 
-  	 - ghost 
-  	 - dark 
- - species: slowking 
-  	 gen: ii 
-  	 foundAs: slowpoke 
-  	 types: 
-  	 - water 
-  	 - psychic 
- - species: serperior 
-  	 gen: v 
-  	 foundAs: snivy 
-  	 types: 
-  	 - grass 
- - species: ditto 
-  	 gen: i 
-  	 types: 
-  	 - normal 
- - species: persian 
-  	 gen: i 
-  	 foundAs: meowth 
-  	 types: 
-  	 - normal 
- - species: azelf 
-  	 gen: iv 
-  	 types: 
-  	 - psychic 
- - species: scrafty 
-  	 gen: v 
-  	 foundAs: scraggy 
-  	 types: 
-  	 - dark 
-  	 - fighting 
- - species: krookodile 
-  	 gen: v 
-  	 foundAs: sandile 
-  	 types: 
-  	 - ground 
-  	 - dark 
- - species: cresselia 
-  	 gen: iv 
-  	 types: 
-  	 - psychic 
- - species: heatran 
-  	 gen: iv 
-  	 types: 
-  	 - fire 
-  	 - steel 
- - species: carnivine 
-  	 gen: iv 
-  	 types: 
-  	 - grass 
- - species: garbodor 
-  	 gen: v 
-  	 foundAs: trubbish 
-  	 types: 
-  	 - poison 
- - species: buzzwole 
-  	 gen: vii 
-  	 types: 
-  	 - bug 
-  	 - fighting 
- - species: crabominable 
-  	 gen: vii 
-  	 foundAs: crabrawler 
-  	 types: 
-  	 - fighting 
-  	 - ice 
- - species: necrozma 
-  	 gen: vii 
-  	 types: 
-  	 - psychic 
- - species: charizard 
-  	 gen: i 
-  	 foundAs: charmander 
-  	 types: 
-  	 - fire 
-  	 - flying 
- - species: pachirisu 
-  	 gen: iv 
-  	 types: 
-  	 - electric 
- - species: samurott 
-  	 gen: v 
-  	 foundAs: oshawott 
-  	 types: 
-  	 - water 
- - species: throh 
-  	 gen: v 
-  	 types: 
-  	 - fighting 
- - species: hippowdon 
-  	 gen: iv 
-  	 foundAs: hippopotas 
-  	 types: 
-  	 - ground 
- - species: cherrim 
-  	 gen: iv 
-  	 foundAs: cherubi 
-  	 types: 
-  	 - grass 
- - species: watchog 
-  	 gen: v 
-  	 foundAs: patrat 
-  	 types: 
-  	 - normal 
- - species: luxray 
-  	 gen: iv 
-  	 foundAs: shinx 
-  	 types: 
-  	 - electric 
- - species: emboar 
-  	 gen: v 
-  	 foundAs: tepig 
-  	 types: 
-  	 - fire 
-  	 - fighting 
- - species: kricketune 
-  	 gen: iv 
-  	 foundAs: kricketot 
-  	 types: 
-  	 - bug 
- - species: decidueye 
-  	 gen: vii 
-  	 foundAs: rowlet 
-  	 types: 
-  	 - grass 
-  	 - ghost 
- - species: rotom 
-  	 gen: iv 
-  	 types: 
-  	 - electric 
-  	 - ghost 
- - species: sawk 
-  	 gen: v 
-  	 types: 
-  	 - fighting 
- - species: skuntank 
-  	 gen: iv 
-  	 foundAs: stunky 
-  	 types: 
-  	 - poison 
-  	 - dark 
- - species: mothim 
-  	 gen: iv 
-  	 foundAs: burmy 
-  	 types: 
-  	 - bug 
-  	 - flying 
- - species: lurantis 
-  	 gen: vii 
-  	 foundAs: fomantis 
-  	 types: 
-  	 - grass 
- - species: incineroar 
-  	 gen: vii 
-  	 foundAs: litten 
-  	 types: 
-  	 - fire 
-  	 - dark 
- - species: seismitoad 
-  	 gen: v 
-  	 foundAs: tympole 
-  	 types: 
-  	 - water 
-  	 - ground 
- - species: scolipede 
-  	 gen: v 
-  	 foundAs: venipede 
-  	 types: 
-  	 - bug 
-  	 - poison 
- - species: carracosta 
-  	 gen: v 
-  	 foundAs: tirtouga 
-  	 types: 
-  	 - water 
-  	 - rock 
- - species: chatot 
-  	 gen: iv 
-  	 types: 
-  	 - normal 
-  	 - flying 
- - species: gorebyss 
-  	 gen: iii 
-  	 foundAs: clamperl 
-  	 types: 
-  	 - water 
- - species: accelgor 
-  	 gen: v 
-  	 foundAs: shelmet 
-  	 types: 
-  	 - bug 
- - species: liepard 
-  	 gen: v 
-  	 foundAs: purrloin 
-  	 types: 
-  	 - dark 
- - species: regigigas 
-  	 gen: iv 
-  	 types: 
-  	 - normal 
- - species: garchomp 
-  	 gen: iv 
-  	 foundAs: gible 
-  	 types: 
-  	 - dragon 
-  	 - ground 
- - species: vespiquen 
-  	 gen: iv 
-  	 foundAs: combee 
-  	 types: 
-  	 - bug 
-  	 - flying 
- - species: mesprit 
-  	 gen: iv 
-  	 types: 
-  	 - psychic 
- - species: drifblim 
-  	 gen: iv 
-  	 foundAs: drifloon 
-  	 types: 
-  	 - ghost 
-  	 - flying 
- - species: beartic 
-  	 gen: v 
-  	 foundAs: cubchoo 
-  	 types: 
-  	 - ice 
- - species: lumineon 
-  	 gen: iv 
-  	 foundAs: finneon 
-  	 types: 
-  	 - water 
- - species: torterra 
-  	 gen: iv 
-  	 foundAs: turtwig 
-  	 types: 
-  	 - grass 
-  	 - ground 
- - species: victini 
-  	 gen: v 
-  	 types: 
-  	 - psychic 
-  	 - fire 
- - species: gastrodon 
-  	 gen: iv 
-  	 foundAs: shellos 
-  	 types: 
-  	 - water 
-  	 - ground 
- - species: armaldo 
-  	 gen: iii 
-  	 foundAs: anorith 
-  	 types: 
-  	 - rock 
-  	 - bug 
- - species: purugly 
-  	 gen: iv 
-  	 foundAs: glameow 
-  	 types: 
-  	 - normal 
- - species: abomasnow 
-  	 gen: iv 
-  	 foundAs: snover 
-  	 types: 
-  	 - grass 
-  	 - ice 
- - species: luvdisc 
-  	 gen: iii 
-  	 types: 
-  	 - water 
- - species: alcremie 
-  	 gen: viii 
-  	 foundAs: milcery 
-  	 types: 
-  	 - fairy 
- - species: bibarel 
-  	 gen: iv 
-  	 foundAs: bidoof 
-  	 types: 
-  	 - normal 
-  	 - water 
- - species: floatzel 
-  	 gen: iv 
-  	 foundAs: buizel 
-  	 types: 
-  	 - water 
- - species: bastiodon 
-  	 gen: iv 
-  	 foundAs: shieldon 
-  	 types: 
-  	 - rock 
-  	 - steel 
- - species: manectric 
-  	 gen: iii 
-  	 foundAs: electrike 
-  	 types: 
-  	 - electric 
- - species: banette 
-  	 gen: iii 
-  	 foundAs: shuppet 
-  	 types: 
-  	 - ghost 
- - species: bronzong 
-  	 gen: iv 
-  	 foundAs: bronzor 
-  	 types: 
-  	 - steel 
-  	 - psychic 
- - species: staraptor 
-  	 gen: iv 
-  	 foundAs: starly 
-  	 types: 
-  	 - normal 
-  	 - flying 
- - species: salamence 
-  	 gen: iii 
-  	 foundAs: bagon 
-  	 types: 
-  	 - dragon 
-  	 - flying 
- - species: uxie 
-  	 gen: iv 
-  	 types: 
-  	 - psychic 
- - species: lucario 
-  	 gen: iv 
-  	 foundAs: riolu 
-  	 types: 
-  	 - fighting 
-  	 - steel 
- - species: dialga 
-  	 gen: iv 
-  	 types: 
-  	 - steel 
-  	 - dragon 
- - species: darkrai 
-  	 gen: iv 
-  	 types: 
-  	 - dark 
- - species: sigilyph 
-  	 gen: v 
-  	 types: 
-  	 - psychic 
-  	 - flying 
- - species: drapion 
-  	 gen: iv 
-  	 foundAs: skorupi 
-  	 types: 
-  	 - poison 
-  	 - dark 
- - species: rampardos 
-  	 gen: iv 
-  	 foundAs: cranidos 
-  	 types: 
-  	 - rock 
- - species: comfey 
-  	 gen: vii 
-  	 types: 
-  	 - fairy 
- - species: dusknoir 
-  	 gen: iv 
-  	 foundAs: duskull 
-  	 types: 
-  	 - ghost 
- - species: lopunny 
-  	 gen: iv 
-  	 foundAs: buneary 
-  	 types: 
-  	 - normal 
- - species: moltres 
-  	 gen: i 
-  	 types: 
-  	 - fire 
-  	 - flying 
- - species: cradily 
-  	 gen: iii 
-  	 foundAs: lileep 
-  	 types: 
-  	 - rock 
-  	 - grass 
- - species: empoleon 
-  	 gen: iv 
-  	 foundAs: piplup 
-  	 types: 
-  	 - water 
-  	 - steel 
- - species: whiscash 
-  	 gen: iii 
-  	 foundAs: barboach 
-  	 types: 
-  	 - water 
-  	 - ground 
- - species: camerupt 
-  	 gen: iii 
-  	 foundAs: numel 
-  	 types: 
-  	 - fire 
-  	 - ground 
- - species: archeops 
-  	 gen: v 
-  	 foundAs: archen 
-  	 types: 
-  	 - rock 
-  	 - flying 
- - species: kyogre 
-  	 gen: iii 
-  	 types: 
-  	 - water 
- - species: chimecho 
-  	 gen: iii 
-  	 foundAs: chingling 
-  	 types: 
-  	 - psychic 
- - species: tropius 
-  	 gen: iii 
-  	 types: 
-  	 - grass 
-  	 - flying 
- - species: regirock 
-  	 gen: iii 
-  	 types: 
-  	 - rock 
- - species: infernape 
-  	 gen: iv 
-  	 foundAs: chimchar 
-  	 types: 
-  	 - fire 
-  	 - fighting 
- - species: toxicroak 
-  	 gen: iv 
-  	 foundAs: croagunk 
-  	 types: 
-  	 - poison 
-  	 - fighting 
- - species: walrein 
-  	 gen: iii 
-  	 foundAs: spheal 
-  	 types: 
-  	 - ice 
-  	 - water 
- - species: spinda 
-  	 gen: iii 
-  	 types: 
-  	 - normal 
- - species: nidoking 
-  	 gen: i 
-  	 foundAs: nidoran-m 
-  	 types: 
-  	 - poison 
-  	 - ground 
- - species: groudon 
-  	 gen: iii 
-  	 types: 
-  	 - ground 
- - species: milotic 
-  	 gen: iii 
-  	 foundAs: feebas 
-  	 types: 
-  	 - water 
- - species: crawdaunt 
-  	 gen: iii 
-  	 foundAs: corphish 
-  	 types: 
-  	 - water 
-  	 - dark 
- - species: metagross 
-  	 gen: iii 
-  	 foundAs: beldum 
-  	 types: 
-  	 - steel 
-  	 - psychic 
- - species: kecleon 
-  	 gen: iii 
-  	 types: 
-  	 - normal 
- - species: conkeldurr 
-  	 gen: v 
-  	 foundAs: timburr 
-  	 types: 
-  	 - fighting 
- - species: cryogonal 
-  	 gen: v 
-  	 types: 
-  	 - ice 
- - species: eelektross 
-  	 gen: v 
-  	 foundAs: tynamo 
-  	 types: 
-  	 - electric 
- - species: chandelure 
-  	 gen: v 
-  	 foundAs: litwick 
-  	 types: 
-  	 - ghost 
-  	 - fire 
- - species: leavanny 
-  	 gen: v 
-  	 foundAs: sewaddle 
-  	 types: 
-  	 - bug 
-  	 - grass 
- - species: sawsbuck 
-  	 gen: v 
-  	 foundAs: deerling 
-  	 types: 
-  	 - normal 
-  	 - grass 
- - species: medicham 
-  	 gen: iii 
-  	 foundAs: meditite 
-  	 types: 
-  	 - fighting 
-  	 - psychic 
- - species: jirachi 
-  	 gen: iii 
-  	 types: 
-  	 - steel 
-  	 - psychic 
- - species: rayquaza 
-  	 gen: iii 
-  	 types: 
-  	 - dragon 
-  	 - flying 
- - species: arceus 
-  	 gen: iv 
-  	 types: 
-  	 - normal 
- - species: relicanth 
-  	 gen: iii 
-  	 types: 
-  	 - water 
-  	 - rock 
- - species: latios 
-  	 gen: iii 
-  	 types: 
-  	 - dragon 
-  	 - psychic 
- - species: latias 
-  	 gen: iii 
-  	 types: 
-  	 - dragon 
-  	 - psychic 
- - species: absol 
-  	 gen: iii 
-  	 types: 
-  	 - dark 
- - species: meganium 
-  	 gen: ii 
-  	 foundAs: chikorita 
-  	 types: 
-  	 - grass 
- - species: zapdos 
-  	 gen: i 
-  	 types: 
-  	 - electric 
-  	 - flying 
- - species: ledian 
-  	 gen: ii 
-  	 foundAs: ledyba 
-  	 types: 
-  	 - bug 
-  	 - flying 
  - species: pidgeot 
   	 gen: i 
   	 foundAs: pidgey 
   	 types: 
   	 - normal 
   	 - flying 
- - species: magmortar 
-  	 gen: iv 
-  	 foundAs: magby 
+ - species: arbok 
+  	 gen: i 
+  	 foundAs: ekans 
+  	 types: 
+  	 - poison 
+ - species: wigglytuff 
+  	 gen: i 
+  	 foundAs: igglybuff 
+  	 types: 
+  	 - normal 
+  	 - fairy 
+ - species: venusaur 
+  	 gen: i 
+  	 foundAs: bulbasaur 
+  	 types: 
+  	 - grass 
+  	 - poison 
+ - species: nidoqueen 
+  	 gen: i 
+  	 foundAs: nidoran-f 
+  	 types: 
+  	 - poison 
+  	 - ground 
+ - species: charizard 
+  	 gen: i 
+  	 foundAs: charmander 
   	 types: 
   	 - fire 
- - species: druddigon 
-  	 gen: v 
+  	 - flying 
+ - species: raichu 
+  	 gen: i 
+  	 foundAs: pichu 
   	 types: 
-  	 - dragon 
- - species: audino 
-  	 gen: v 
-  	 types: 
-  	 - normal 
- - species: roserade 
-  	 gen: iv 
-  	 foundAs: budew 
-  	 types: 
-  	 - grass 
-  	 - poison 
- - species: stunfisk 
-  	 gen: v 
-  	 types: 
-  	 - ground 
   	 - electric 
- - species: claydol 
-  	 gen: iii 
-  	 foundAs: baltoy 
-  	 types: 
-  	 - ground 
-  	 - psychic 
- - species: palkia 
-  	 gen: iv 
+ - species: poliwrath 
+  	 gen: i 
+  	 foundAs: poliwag 
   	 types: 
   	 - water 
-  	 - dragon 
- - species: vanilluxe 
-  	 gen: v 
-  	 foundAs: vanillite 
-  	 types: 
-  	 - ice 
- - species: castform 
-  	 gen: iii 
-  	 types: 
-  	 - normal 
- - species: reuniclus 
-  	 gen: v 
-  	 foundAs: solosis 
-  	 types: 
-  	 - psychic 
- - species: whimsicott 
-  	 gen: v 
-  	 foundAs: cottonee 
-  	 types: 
-  	 - grass 
-  	 - fairy 
- - species: maractus 
-  	 gen: v 
-  	 types: 
-  	 - grass 
- - species: manaphy 
-  	 gen: iv 
-  	 foundAs: phione 
-  	 types: 
-  	 - water 
- - species: amoonguss 
-  	 gen: v 
-  	 foundAs: foongus 
-  	 types: 
-  	 - grass 
-  	 - poison 
- - species: cofagrigus 
-  	 gen: v 
-  	 foundAs: yamask 
-  	 types: 
-  	 - ghost 
- - species: stoutland 
-  	 gen: v 
-  	 foundAs: lillipup 
-  	 types: 
-  	 - normal 
- - species: terrakion 
-  	 gen: v 
-  	 types: 
-  	 - rock 
   	 - fighting 
- - species: beheeyem 
-  	 gen: v 
-  	 foundAs: elgyem 
-  	 types: 
-  	 - psychic 
- - species: swoobat 
-  	 gen: v 
-  	 foundAs: woobat 
-  	 types: 
-  	 - psychic 
-  	 - flying 
- - species: kyurem 
-  	 gen: v 
-  	 types: 
-  	 - dragon 
-  	 - ice 
- - species: escavalier 
-  	 gen: v 
-  	 foundAs: karrablast 
-  	 types: 
-  	 - bug 
-  	 - steel 
- - species: swanna 
-  	 gen: v 
-  	 foundAs: ducklett 
+ - species: tentacruel 
+  	 gen: i 
+  	 foundAs: tentacool 
   	 types: 
   	 - water 
-  	 - flying 
- - species: regice 
-  	 gen: iii 
-  	 types: 
-  	 - ice 
- - species: bisharp 
-  	 gen: v 
-  	 foundAs: pawniard 
-  	 types: 
-  	 - dark 
-  	 - steel 
- - species: gothitelle 
-  	 gen: v 
-  	 foundAs: gothita 
-  	 types: 
-  	 - psychic 
- - species: haxorus 
-  	 gen: v 
-  	 foundAs: axew 
-  	 types: 
-  	 - dragon 
- - species: emolga 
-  	 gen: v 
-  	 types: 
-  	 - electric 
-  	 - flying 
- - species: togedemaru 
-  	 gen: vii 
-  	 types: 
-  	 - electric 
-  	 - steel 
- - species: jumpluff 
-  	 gen: ii 
-  	 foundAs: hoppip 
-  	 types: 
-  	 - grass 
-  	 - flying 
- - species: mismagius 
-  	 gen: iv 
-  	 foundAs: misdreavus 
-  	 types: 
-  	 - ghost 
- - species: glalie 
-  	 gen: iii 
-  	 foundAs: snorunt 
-  	 types: 
-  	 - ice 
- - species: ampharos 
-  	 gen: ii 
-  	 foundAs: mareep 
-  	 types: 
-  	 - electric 
- - species: beautifly 
-  	 gen: iii 
-  	 foundAs: wurmple 
-  	 types: 
-  	 - bug 
-  	 - flying 
- - species: delibird 
-  	 gen: ii 
-  	 types: 
-  	 - ice 
-  	 - flying 
- - species: breloom 
-  	 gen: iii 
-  	 foundAs: shroomish 
-  	 types: 
-  	 - grass 
-  	 - fighting 
- - species: electivire 
-  	 gen: iv 
-  	 foundAs: elekid 
-  	 types: 
-  	 - electric 
- - species: plusle 
-  	 gen: iii 
-  	 types: 
-  	 - electric 
- - species: dustox 
-  	 gen: iii 
-  	 foundAs: wurmple 
-  	 types: 
-  	 - bug 
   	 - poison 
- - species: cacturne 
-  	 gen: iii 
-  	 foundAs: cacnea 
+ - species: hitmontop 
+  	 gen: ii 
+  	 foundAs: tyrogue 
   	 types: 
-  	 - grass 
-  	 - dark 
+  	 - fighting 
  - species: victreebel 
   	 gen: i 
   	 foundAs: bellsprout 
   	 types: 
   	 - grass 
   	 - poison 
- - species: skarmory 
-  	 gen: ii 
+ - species: slowbro 
+  	 gen: i 
+  	 foundAs: slowpoke 
   	 types: 
-  	 - steel 
-  	 - flying 
- - species: sceptile 
-  	 gen: iii 
-  	 foundAs: treecko 
-  	 types: 
-  	 - grass 
- - species: ho-oh 
-  	 gen: ii 
-  	 types: 
-  	 - fire 
-  	 - flying 
- - species: shiftry 
-  	 gen: iii 
-  	 foundAs: seedot 
-  	 types: 
-  	 - grass 
-  	 - dark 
- - species: grumpig 
-  	 gen: iii 
-  	 foundAs: spoink 
-  	 types: 
+  	 - water 
   	 - psychic 
+ - species: politoed 
+  	 gen: ii 
+  	 foundAs: poliwag 
+  	 types: 
+  	 - water 
+ - species: venomoth 
+  	 gen: i 
+  	 foundAs: venonat 
+  	 types: 
+  	 - bug 
+  	 - poison 
+ - species: beedrill 
+  	 gen: i 
+  	 foundAs: weedle 
+  	 types: 
+  	 - bug 
+  	 - poison 
  - species: scizor 
   	 gen: ii 
   	 foundAs: scyther 
   	 types: 
   	 - bug 
   	 - steel 
- - species: dunsparce 
+ - species: crobat 
   	 gen: ii 
+  	 foundAs: zubat 
+  	 types: 
+  	 - poison 
+  	 - flying 
+ - species: parasect 
+  	 gen: i 
+  	 foundAs: paras 
+  	 types: 
+  	 - bug 
+  	 - grass 
+ - species: primeape 
+  	 gen: i 
+  	 foundAs: mankey 
+  	 types: 
+  	 - fighting 
+ - species: dodrio 
+  	 gen: i 
+  	 foundAs: doduo 
   	 types: 
   	 - normal 
- - species: blaziken 
-  	 gen: iii 
-  	 foundAs: torchic 
-  	 types: 
-  	 - fire 
-  	 - fighting 
- - species: aggron 
-  	 gen: iii 
-  	 foundAs: aron 
-  	 types: 
-  	 - steel 
-  	 - rock 
- - species: entei 
-  	 gen: ii 
-  	 types: 
-  	 - fire 
- - species: sudowoodo 
-  	 gen: ii 
-  	 foundAs: bonsly 
-  	 types: 
-  	 - rock 
- - species: froslass 
-  	 gen: iv 
-  	 foundAs: snorunt 
-  	 types: 
-  	 - ice 
-  	 - ghost 
- - species: altaria 
-  	 gen: iii 
-  	 foundAs: swablu 
-  	 types: 
-  	 - dragon 
   	 - flying 
- - species: masquerain 
-  	 gen: iii 
-  	 foundAs: surskit 
+ - species: butterfree 
+  	 gen: i 
+  	 foundAs: caterpie 
   	 types: 
   	 - bug 
   	 - flying 
- - species: quagsire 
-  	 gen: ii 
-  	 foundAs: wooper 
-  	 types: 
-  	 - water 
-  	 - ground 
- - species: donphan 
-  	 gen: ii 
-  	 foundAs: phanpy 
+ - species: dugtrio 
+  	 gen: i 
+  	 foundAs: diglett 
   	 types: 
   	 - ground 
- - species: suicune 
-  	 gen: ii 
-  	 types: 
-  	 - water 
- - species: miltank 
-  	 gen: ii 
-  	 types: 
-  	 - normal 
- - species: zangoose 
-  	 gen: iii 
-  	 types: 
-  	 - normal 
- - species: gallade 
-  	 gen: iv 
-  	 foundAs: ralts 
+ - species: hypno 
+  	 gen: i 
+  	 foundAs: drowzee 
   	 types: 
   	 - psychic 
-  	 - fighting 
- - species: flygon 
-  	 gen: iii 
-  	 foundAs: trapinch 
+ - species: sylveon 
+  	 gen: vi 
+  	 foundAs: eevee 
   	 types: 
-  	 - ground 
-  	 - dragon 
- - species: seviper 
-  	 gen: iii 
-  	 types: 
-  	 - poison 
- - species: feraligatr 
-  	 gen: ii 
-  	 foundAs: totodile 
-  	 types: 
-  	 - water 
- - species: honchkrow 
-  	 gen: iv 
-  	 foundAs: murkrow 
-  	 types: 
-  	 - dark 
-  	 - flying 
- - species: torkoal 
-  	 gen: iii 
+  	 - fairy 
+ - species: arcanine 
+  	 gen: i 
+  	 foundAs: growlithe 
   	 types: 
   	 - fire 
- - species: articuno 
-  	 gen: i 
-  	 types: 
-  	 - ice 
-  	 - flying 
- - species: hitmonlee 
-  	 gen: i 
-  	 foundAs: tyrogue 
-  	 types: 
-  	 - fighting 
- - species: gliscor 
+ - species: porygon-z 
   	 gen: iv 
-  	 foundAs: gligar 
+  	 foundAs: porygon 
   	 types: 
-  	 - ground 
-  	 - flying 
- - species: sharpedo 
-  	 gen: iii 
-  	 foundAs: carvanha 
-  	 types: 
-  	 - water 
-  	 - dark 
- - species: swalot 
-  	 gen: iii 
-  	 foundAs: gulpin 
-  	 types: 
-  	 - poison 
- - species: minun 
-  	 gen: iii 
+  	 - normal 
+ - species: electivire 
+  	 gen: iv 
+  	 foundAs: elekid 
   	 types: 
   	 - electric 
- - species: machamp 
-  	 gen: i 
-  	 foundAs: machop 
-  	 types: 
-  	 - fighting 
- - species: exeggutor 
-  	 gen: i 
-  	 foundAs: exeggcute 
-  	 types: 
-  	 - grass 
-  	 - psychic 
- - species: pinsir 
-  	 gen: i 
-  	 types: 
-  	 - bug 
- - species: yanmega 
+ - species: magnezone 
   	 gen: iv 
-  	 foundAs: yanma 
+  	 foundAs: magnemite 
   	 types: 
-  	 - bug 
-  	 - flying 
- - species: ariados 
-  	 gen: ii 
-  	 foundAs: spinarak 
-  	 types: 
-  	 - bug 
-  	 - poison 
- - species: tauros 
+  	 - electric 
+  	 - steel 
+ - species: cloyster 
   	 gen: i 
+  	 foundAs: shellder 
+  	 types: 
+  	 - water 
+  	 - ice 
+ - species: lickilicky 
+  	 gen: iv 
+  	 foundAs: lickitung 
   	 types: 
   	 - normal 
  - species: tangrowth 
@@ -1437,70 +222,589 @@
   	 foundAs: tangela 
   	 types: 
   	 - grass 
- - species: unfezant 
-  	 gen: v 
-  	 foundAs: pidove 
+ - species: starmie 
+  	 gen: i 
+  	 foundAs: staryu 
+  	 types: 
+  	 - water 
+  	 - psychic 
+ - species: articuno 
+  	 gen: i 
+  	 types: 
+  	 - ice 
+  	 - flying 
+ - species: fearow 
+  	 gen: i 
+  	 foundAs: spearow 
   	 types: 
   	 - normal 
   	 - flying 
- - species: sableye 
-  	 gen: iii 
+ - species: typhlosion 
+  	 gen: ii 
+  	 foundAs: cyndaquil 
   	 types: 
-  	 - dark 
-  	 - ghost 
- - species: lapras 
+  	 - fire 
+ - species: kingler 
   	 gen: i 
+  	 foundAs: krabby 
+  	 types: 
+  	 - water 
+ - species: seaking 
+  	 gen: i 
+  	 foundAs: goldeen 
+  	 types: 
+  	 - water 
+ - species: kingdra 
+  	 gen: ii 
+  	 foundAs: horsea 
+  	 types: 
+  	 - water 
+  	 - dragon 
+ - species: electrode 
+  	 gen: i 
+  	 foundAs: voltorb 
+  	 types: 
+  	 - electric 
+ - species: zapdos 
+  	 gen: i 
+  	 types: 
+  	 - electric 
+  	 - flying 
+ - species: kabutops 
+  	 gen: i 
+  	 foundAs: kabuto 
+  	 types: 
+  	 - rock 
+  	 - water 
+ - species: weezing 
+  	 gen: i 
+  	 foundAs: koffing 
+  	 types: 
+  	 - poison 
+ - species: lanturn 
+  	 gen: ii 
+  	 foundAs: chinchou 
+  	 types: 
+  	 - water 
+  	 - electric 
+ - species: hitmonlee 
+  	 gen: i 
+  	 foundAs: tyrogue 
+  	 types: 
+  	 - fighting 
+ - species: hitmonchan 
+  	 gen: i 
+  	 foundAs: tyrogue 
+  	 types: 
+  	 - fighting 
+ - species: omastar 
+  	 gen: i 
+  	 foundAs: omanyte 
+  	 types: 
+  	 - rock 
+  	 - water 
+ - species: toucannon 
+  	 gen: vii 
+  	 foundAs: pikipek 
+  	 types: 
+  	 - normal 
+  	 - flying 
+ - species: dewgong 
+  	 gen: i 
+  	 foundAs: seel 
   	 types: 
   	 - water 
   	 - ice 
- - species: rhyperior 
-  	 gen: iv 
-  	 foundAs: rhyhorn 
+ - species: machamp 
+  	 gen: i 
+  	 foundAs: machop 
+  	 types: 
+  	 - fighting 
+ - species: muk 
+  	 gen: i 
+  	 foundAs: grimer 
+  	 types: 
+  	 - poison 
+ - species: sandslash 
+  	 gen: i 
+  	 foundAs: sandshrew 
   	 types: 
   	 - ground 
+ - species: persian 
+  	 gen: i 
+  	 foundAs: meowth 
+  	 types: 
+  	 - normal 
+ - species: sudowoodo 
+  	 gen: ii 
+  	 foundAs: bonsly 
+  	 types: 
   	 - rock 
+ - species: meganium 
+  	 gen: ii 
+  	 foundAs: chikorita 
+  	 types: 
+  	 - grass 
+ - species: gengar 
+  	 gen: i 
+  	 foundAs: gastly 
+  	 types: 
+  	 - ghost 
+  	 - poison 
+ - species: tauros 
+  	 gen: i 
+  	 types: 
+  	 - normal 
+ - species: golem 
+  	 gen: i 
+  	 foundAs: geodude 
+  	 types: 
+  	 - rock 
+  	 - ground 
+ - species: marowak 
+  	 gen: i 
+  	 foundAs: cubone 
+  	 types: 
+  	 - ground 
+ - species: kangaskhan 
+  	 gen: i 
+  	 types: 
+  	 - normal 
+ - species: gliscor 
+  	 gen: iv 
+  	 foundAs: gligar 
+  	 types: 
+  	 - ground 
+  	 - flying 
+ - species: feraligatr 
+  	 gen: ii 
+  	 foundAs: totodile 
+  	 types: 
+  	 - water 
+ - species: aerodactyl 
+  	 gen: i 
+  	 types: 
+  	 - rock 
+  	 - flying 
+ - species: gyarados 
+  	 gen: i 
+  	 foundAs: magikarp 
+  	 types: 
+  	 - water 
+  	 - flying 
+ - species: rapidash 
+  	 gen: i 
+  	 foundAs: ponyta 
+  	 types: 
+  	 - fire 
+ - species: snorlax 
+  	 gen: i 
+  	 foundAs: munchlax 
+  	 types: 
+  	 - normal 
+ - species: alakazam 
+  	 gen: i 
+  	 foundAs: abra 
+  	 types: 
+  	 - psychic 
+ - species: ambipom 
+  	 gen: iv 
+  	 foundAs: aipom 
+  	 types: 
+  	 - normal 
+ - species: slowking 
+  	 gen: ii 
+  	 foundAs: slowpoke 
+  	 types: 
+  	 - water 
+  	 - psychic 
+ - species: mewtwo 
+  	 gen: i 
+  	 types: 
+  	 - psychic 
+ - species: golduck 
+  	 gen: i 
+  	 foundAs: psyduck 
+  	 types: 
+  	 - water 
+ - species: xatu 
+  	 gen: ii 
+  	 foundAs: natu 
+  	 types: 
+  	 - psychic 
+  	 - flying 
+ - species: mantine 
+  	 gen: ii 
+  	 foundAs: mantyke 
+  	 types: 
+  	 - water 
+  	 - flying 
  - species: jynx 
   	 gen: i 
   	 foundAs: smoochum 
   	 types: 
   	 - ice 
   	 - psychic 
- - species: delcatty 
-  	 gen: iii 
-  	 foundAs: skitty 
-  	 types: 
-  	 - normal 
- - species: weezing 
+ - species: nidoking 
   	 gen: i 
-  	 foundAs: koffing 
+  	 foundAs: nidoran-m 
   	 types: 
   	 - poison 
- - species: sunflora 
-  	 gen: ii 
-  	 foundAs: sunkern 
+  	 - ground 
+ - species: weavile 
+  	 gen: iv 
+  	 foundAs: sneasel 
   	 types: 
-  	 - grass 
- - species: magcargo 
+  	 - dark 
+  	 - ice 
+ - species: donphan 
   	 gen: ii 
-  	 foundAs: slugma 
+  	 foundAs: phanpy 
+  	 types: 
+  	 - ground 
+ - species: blaziken 
+  	 gen: iii 
+  	 foundAs: torchic 
   	 types: 
   	 - fire 
+  	 - fighting 
+ - species: ribombee 
+  	 gen: vii 
+  	 foundAs: cutiefly 
+  	 types: 
+  	 - bug 
+  	 - fairy 
+ - species: decidueye 
+  	 gen: vii 
+  	 foundAs: rowlet 
+  	 types: 
+  	 - grass 
+  	 - ghost 
+ - species: clefable 
+  	 gen: i 
+  	 foundAs: cleffa 
+  	 types: 
+  	 - fairy 
+ - species: granbull 
+  	 gen: ii 
+  	 foundAs: snubbull 
+  	 types: 
+  	 - fairy 
+ - species: miltank 
+  	 gen: ii 
+  	 types: 
+  	 - normal 
+ - species: delibird 
+  	 gen: ii 
+  	 types: 
+  	 - ice 
+  	 - flying 
+ - species: mismagius 
+  	 gen: iv 
+  	 foundAs: misdreavus 
+  	 types: 
+  	 - ghost 
+ - species: aggron 
+  	 gen: iii 
+  	 foundAs: aron 
+  	 types: 
+  	 - steel 
   	 - rock 
- - species: genesect 
-  	 gen: v 
+ - species: mamoswine 
+  	 gen: iv 
+  	 foundAs: swinub 
+  	 types: 
+  	 - ice 
+  	 - ground 
+ - species: crabominable 
+  	 gen: vii 
+  	 foundAs: crabrawler 
+  	 types: 
+  	 - fighting 
+  	 - ice 
+ - species: toxapex 
+  	 gen: vii 
+  	 foundAs: mareanie 
+  	 types: 
+  	 - poison 
+  	 - water 
+ - species: ninetales 
+  	 gen: i 
+  	 foundAs: vulpix 
+  	 types: 
+  	 - fire 
+ - species: volbeat 
+  	 gen: iii 
+  	 types: 
+  	 - bug 
+ - species: beautifly 
+  	 gen: iii 
+  	 foundAs: wurmple 
+  	 types: 
+  	 - bug 
+  	 - flying 
+ - species: glaceon 
+  	 gen: iv 
+  	 foundAs: eevee 
+  	 types: 
+  	 - ice 
+ - species: dunsparce 
+  	 gen: ii 
+  	 types: 
+  	 - normal 
+ - species: quagsire 
+  	 gen: ii 
+  	 foundAs: wooper 
+  	 types: 
+  	 - water 
+  	 - ground 
+ - species: ludicolo 
+  	 gen: iii 
+  	 foundAs: lotad 
+  	 types: 
+  	 - water 
+  	 - grass 
+ - species: gardevoir 
+  	 gen: iii 
+  	 foundAs: ralts 
+  	 types: 
+  	 - psychic 
+  	 - fairy 
+ - species: regice 
+  	 gen: iii 
+  	 types: 
+  	 - ice 
+ - species: magmortar 
+  	 gen: iv 
+  	 foundAs: magby 
+  	 types: 
+  	 - fire 
+ - species: registeel 
+  	 gen: iii 
+  	 types: 
+  	 - steel 
+ - species: froslass 
+  	 gen: iv 
+  	 foundAs: snorunt 
+  	 types: 
+  	 - ice 
+  	 - ghost 
+ - species: huntail 
+  	 gen: iii 
+  	 foundAs: clamperl 
+  	 types: 
+  	 - water 
+ - species: glalie 
+  	 gen: iii 
+  	 foundAs: snorunt 
+  	 types: 
+  	 - ice 
+ - species: ursaring 
+  	 gen: ii 
+  	 foundAs: teddiursa 
+  	 types: 
+  	 - normal 
+ - species: lugia 
+  	 gen: ii 
+  	 types: 
+  	 - psychic 
+  	 - flying 
+ - species: kyogre 
+  	 gen: iii 
+  	 types: 
+  	 - water 
+ - species: castform 
+  	 gen: iii 
+  	 types: 
+  	 - normal 
+ - species: tropius 
+  	 gen: iii 
+  	 types: 
+  	 - grass 
+  	 - flying 
+ - species: togekiss 
+  	 gen: iv 
+  	 foundAs: togepi 
+  	 types: 
+  	 - fairy 
+  	 - flying 
+ - species: forretress 
+  	 gen: ii 
+  	 foundAs: pineco 
   	 types: 
   	 - bug 
   	 - steel 
- - species: klinklang 
-  	 gen: v 
-  	 foundAs: klink 
+ - species: leafeon 
+  	 gen: iv 
+  	 foundAs: eevee 
   	 types: 
-  	 - steel 
- - species: durant 
-  	 gen: v 
+  	 - grass 
+ - species: exeggutor 
+  	 gen: i 
+  	 foundAs: exeggcute 
+  	 types: 
+  	 - grass 
+  	 - psychic 
+ - species: ampharos 
+  	 gen: ii 
+  	 foundAs: mareep 
+  	 types: 
+  	 - electric 
+ - species: ariados 
+  	 gen: ii 
+  	 foundAs: spinarak 
   	 types: 
   	 - bug 
+  	 - poison 
+ - species: noctowl 
+  	 gen: ii 
+  	 foundAs: hoothoot 
+  	 types: 
+  	 - normal 
+  	 - flying 
+ - species: azumarill 
+  	 gen: ii 
+  	 foundAs: azurill 
+  	 types: 
+  	 - water 
+  	 - fairy 
+ - species: moltres 
+  	 gen: i 
+  	 types: 
+  	 - fire 
+  	 - flying 
+ - species: umbreon 
+  	 gen: ii 
+  	 foundAs: eevee 
+  	 types: 
+  	 - dark 
+ - species: musharna 
+  	 gen: v 
+  	 foundAs: munna 
+  	 types: 
+  	 - psychic 
+ - species: camerupt 
+  	 gen: iii 
+  	 foundAs: numel 
+  	 types: 
+  	 - fire 
+  	 - ground 
+ - species: swanna 
+  	 gen: v 
+  	 foundAs: ducklett 
+  	 types: 
+  	 - water 
+  	 - flying 
+ - species: flareon 
+  	 gen: i 
+  	 foundAs: eevee 
+  	 types: 
+  	 - fire 
+ - species: latios 
+  	 gen: iii 
+  	 types: 
+  	 - dragon 
+  	 - psychic 
+ - species: espeon 
+  	 gen: ii 
+  	 foundAs: eevee 
+  	 types: 
+  	 - psychic 
+ - species: jolteon 
+  	 gen: i 
+  	 foundAs: eevee 
+  	 types: 
+  	 - electric 
+ - species: cryogonal 
+  	 gen: v 
+  	 types: 
+  	 - ice 
+ - species: garbodor 
+  	 gen: v 
+  	 foundAs: trubbish 
+  	 types: 
+  	 - poison 
+ - species: ledian 
+  	 gen: ii 
+  	 foundAs: ledyba 
+  	 types: 
+  	 - bug 
+  	 - flying 
+ - species: simipour 
+  	 gen: v 
+  	 foundAs: panpour 
+  	 types: 
+  	 - water 
+ - species: lapras 
+  	 gen: i 
+  	 types: 
+  	 - water 
+  	 - ice 
+ - species: furret 
+  	 gen: ii 
+  	 foundAs: sentret 
+  	 types: 
+  	 - normal 
+ - species: jellicent 
+  	 gen: v 
+  	 foundAs: frillish 
+  	 types: 
+  	 - water 
+  	 - ghost 
+ - species: sawsbuck 
+  	 gen: v 
+  	 foundAs: deerling 
+  	 types: 
+  	 - normal 
+  	 - grass 
+ - species: samurott 
+  	 gen: v 
+  	 foundAs: oshawott 
+  	 types: 
+  	 - water 
+ - species: pinsir 
+  	 gen: i 
+  	 types: 
+  	 - bug 
+ - species: eelektross 
+  	 gen: v 
+  	 foundAs: tynamo 
+  	 types: 
+  	 - electric 
+ - species: steelix 
+  	 gen: ii 
+  	 foundAs: onix 
+  	 types: 
   	 - steel 
+  	 - ground 
+ - species: seismitoad 
+  	 gen: v 
+  	 foundAs: tympole 
+  	 types: 
+  	 - water 
+  	 - ground 
+ - species: lilligant 
+  	 gen: v 
+  	 foundAs: petilil 
+  	 types: 
+  	 - grass 
+ - species: gigalith 
+  	 gen: v 
+  	 foundAs: roggenrola 
+  	 types: 
+  	 - rock 
+ - species: rhyperior 
+  	 gen: iv 
+  	 foundAs: rhyhorn 
+  	 types: 
+  	 - ground 
+  	 - rock 
+ - species: crawdaunt 
+  	 gen: iii 
+  	 foundAs: corphish 
+  	 types: 
+  	 - water 
+  	 - dark 
  - species: cinccino 
   	 gen: v 
   	 foundAs: minccino 
@@ -1512,508 +816,48 @@
   	 types: 
   	 - normal 
   	 - flying 
- - species: mew 
-  	 gen: i 
-  	 types: 
-  	 - psychic 
- - species: tentacruel 
-  	 gen: i 
-  	 foundAs: tentacool 
-  	 types: 
-  	 - water 
-  	 - poison 
- - species: ambipom 
-  	 gen: iv 
-  	 foundAs: aipom 
+ - species: furfrou 
+  	 gen: vi 
   	 types: 
   	 - normal 
- - species: lickilicky 
-  	 gen: iv 
-  	 foundAs: lickitung 
+ - species: dustox 
+  	 gen: iii 
+  	 foundAs: wurmple 
+  	 types: 
+  	 - bug 
+  	 - poison 
+ - species: blissey 
+  	 gen: ii 
+  	 foundAs: happiny 
   	 types: 
   	 - normal 
- - species: celebi 
-  	 gen: ii 
+ - species: leavanny 
+  	 gen: v 
+  	 foundAs: sewaddle 
   	 types: 
-  	 - psychic 
+  	 - bug 
   	 - grass 
- - species: weavile 
-  	 gen: iv 
-  	 foundAs: sneasel 
-  	 types: 
-  	 - dark 
-  	 - ice 
- - species: heatmor 
-  	 gen: v 
-  	 types: 
-  	 - fire 
- - species: virizion 
-  	 gen: v 
-  	 types: 
-  	 - grass 
-  	 - fighting 
- - species: ferrothorn 
-  	 gen: v 
-  	 foundAs: ferroseed 
-  	 types: 
-  	 - grass 
-  	 - steel 
- - species: mienshao 
-  	 gen: v 
-  	 foundAs: mienfoo 
-  	 types: 
-  	 - fighting 
- - species: pelipper 
-  	 gen: iii 
-  	 foundAs: wingull 
-  	 types: 
-  	 - water 
-  	 - flying 
- - species: mightyena 
-  	 gen: iii 
-  	 foundAs: poochyena 
-  	 types: 
-  	 - dark 
- - species: kingdra 
-  	 gen: ii 
-  	 foundAs: horsea 
-  	 types: 
-  	 - water 
-  	 - dragon 
- - species: qwilfish 
-  	 gen: ii 
-  	 types: 
-  	 - water 
-  	 - poison 
- - species: hitmonchan 
-  	 gen: i 
-  	 foundAs: tyrogue 
-  	 types: 
-  	 - fighting 
  - species: dragonite 
   	 gen: i 
   	 foundAs: dratini 
   	 types: 
   	 - dragon 
   	 - flying 
- - species: hypno 
-  	 gen: i 
-  	 foundAs: drowzee 
-  	 types: 
-  	 - psychic 
- - species: gyarados 
-  	 gen: i 
-  	 foundAs: magikarp 
-  	 types: 
-  	 - water 
-  	 - flying 
- - species: furret 
-  	 gen: ii 
-  	 foundAs: sentret 
-  	 types: 
-  	 - normal 
- - species: shuckle 
-  	 gen: ii 
-  	 types: 
-  	 - bug 
-  	 - rock 
- - species: mantine 
-  	 gen: ii 
-  	 foundAs: mantyke 
-  	 types: 
-  	 - water 
-  	 - flying 
- - species: hydreigon 
-  	 gen: v 
-  	 foundAs: deino 
-  	 types: 
-  	 - dark 
-  	 - dragon 
- - species: girafarig 
-  	 gen: ii 
-  	 types: 
-  	 - normal 
-  	 - psychic 
- - species: ursaring 
-  	 gen: ii 
-  	 foundAs: teddiursa 
-  	 types: 
-  	 - normal 
- - species: gengar 
-  	 gen: i 
-  	 foundAs: gastly 
-  	 types: 
-  	 - ghost 
-  	 - poison 
- - species: granbull 
-  	 gen: ii 
-  	 foundAs: snubbull 
-  	 types: 
-  	 - fairy 
- - species: houndoom 
-  	 gen: ii 
-  	 foundAs: houndour 
-  	 types: 
-  	 - dark 
-  	 - fire 
- - species: electrode 
-  	 gen: i 
-  	 foundAs: voltorb 
-  	 types: 
-  	 - electric 
- - species: illumise 
-  	 gen: iii 
-  	 types: 
-  	 - bug 
- - species: eldegoss 
-  	 gen: viii 
-  	 foundAs: gossifleur 
-  	 types: 
-  	 - grass 
- - species: turtonator 
-  	 gen: vii 
-  	 types: 
-  	 - fire 
-  	 - dragon 
- - species: jellicent 
-  	 gen: v 
-  	 foundAs: frillish 
-  	 types: 
-  	 - water 
-  	 - ghost 
- - species: alomomola 
-  	 gen: v 
-  	 types: 
-  	 - water 
- - species: stonjourner 
-  	 gen: viii 
-  	 types: 
-  	 - rock 
- - species: ribombee 
-  	 gen: vii 
-  	 foundAs: cutiefly 
-  	 types: 
-  	 - bug 
-  	 - fairy 
- - species: bewear 
-  	 gen: vii 
-  	 foundAs: stufful 
-  	 types: 
-  	 - normal 
-  	 - fighting 
- - species: flapple 
-  	 gen: viii 
-  	 foundAs: applin 
-  	 types: 
-  	 - grass 
-  	 - dragon 
- - species: boltund 
-  	 gen: viii 
-  	 foundAs: yamper 
-  	 types: 
-  	 - electric 
- - species: gumshoos 
-  	 gen: vii 
-  	 foundAs: yungoos 
-  	 types: 
-  	 - normal 
- - species: stantler 
-  	 gen: ii 
-  	 types: 
-  	 - normal 
- - species: celesteela 
-  	 gen: vii 
-  	 types: 
-  	 - steel 
-  	 - flying 
- - species: greedent 
-  	 gen: viii 
-  	 foundAs: skwovet 
-  	 types: 
-  	 - normal 
- - species: slaking 
-  	 gen: iii 
-  	 foundAs: slakoth 
-  	 types: 
-  	 - normal 
- - species: corviknight 
-  	 gen: viii 
-  	 foundAs: rookidee 
-  	 types: 
-  	 - flying 
-  	 - steel 
- - species: xurkitree 
-  	 gen: vii 
-  	 types: 
-  	 - electric 
- - species: toucannon 
-  	 gen: vii 
-  	 foundAs: pikipek 
-  	 types: 
-  	 - normal 
-  	 - flying 
- - species: guzzlord 
-  	 gen: vii 
-  	 types: 
-  	 - dark 
-  	 - dragon 
- - species: cramorant 
-  	 gen: viii 
-  	 types: 
-  	 - flying 
-  	 - water 
- - species: azumarill 
-  	 gen: ii 
-  	 foundAs: azurill 
-  	 types: 
-  	 - water 
-  	 - fairy 
- - species: toxapex 
-  	 gen: vii 
-  	 foundAs: mareanie 
-  	 types: 
-  	 - poison 
-  	 - water 
- - species: sandaconda 
-  	 gen: viii 
-  	 foundAs: silicobra 
-  	 types: 
-  	 - ground 
- - species: salazzle 
-  	 gen: vii 
-  	 foundAs: salandit 
-  	 types: 
-  	 - poison 
-  	 - fire 
- - species: marshadow 
-  	 gen: vii 
-  	 types: 
-  	 - fighting 
-  	 - ghost 
- - species: kommo-o 
-  	 gen: vii 
-  	 foundAs: jangmo-o 
-  	 types: 
-  	 - dragon 
-  	 - fighting 
- - species: passimian 
-  	 gen: vii 
-  	 types: 
-  	 - fighting 
- - species: noivern 
-  	 gen: vi 
-  	 foundAs: noibat 
-  	 types: 
-  	 - flying 
-  	 - dragon 
- - species: tapu-lele 
-  	 gen: vii 
-  	 types: 
-  	 - psychic 
-  	 - fairy 
- - species: diancie 
-  	 gen: vi 
-  	 types: 
-  	 - rock 
-  	 - fairy 
- - species: yveltal 
-  	 gen: vi 
-  	 types: 
-  	 - dark 
-  	 - flying 
- - species: delphox 
-  	 gen: vi 
-  	 foundAs: fennekin 
-  	 types: 
-  	 - fire 
-  	 - psychic 
- - species: dubwool 
-  	 gen: viii 
-  	 foundAs: wooloo 
-  	 types: 
-  	 - normal 
- - species: swampert 
-  	 gen: iii 
-  	 foundAs: mudkip 
-  	 types: 
-  	 - water 
-  	 - ground 
- - species: stakataka 
-  	 gen: vii 
-  	 types: 
-  	 - rock 
-  	 - steel 
- - species: nihilego 
-  	 gen: vii 
-  	 types: 
-  	 - rock 
-  	 - poison 
- - species: tapu-fini 
-  	 gen: vii 
-  	 types: 
-  	 - water 
-  	 - fairy 
- - species: carbink 
-  	 gen: vi 
-  	 types: 
-  	 - rock 
-  	 - fairy 
- - species: zebstrika 
-  	 gen: v 
-  	 foundAs: blitzle 
-  	 types: 
-  	 - electric 
- - species: lunala 
-  	 gen: vii 
-  	 foundAs: cosmog 
-  	 types: 
-  	 - psychic 
-  	 - ghost 
- - species: pyukumuku 
-  	 gen: vii 
-  	 types: 
-  	 - water 
- - species: bruxish 
-  	 gen: vii 
-  	 types: 
-  	 - water 
-  	 - psychic 
- - species: pyroar 
-  	 gen: vi 
-  	 foundAs: litleo 
-  	 types: 
-  	 - fire 
-  	 - normal 
- - species: komala 
-  	 gen: vii 
-  	 types: 
-  	 - normal 
  - species: dedenne 
   	 gen: vi 
   	 types: 
   	 - electric 
   	 - fairy 
- - species: aurorus 
-  	 gen: vi 
-  	 foundAs: amaura 
-  	 types: 
-  	 - rock 
-  	 - ice 
- - species: porygon-z 
-  	 gen: iv 
-  	 foundAs: porygon 
-  	 types: 
-  	 - normal 
- - species: primarina 
-  	 gen: vii 
-  	 foundAs: popplio 
-  	 types: 
-  	 - water 
-  	 - fairy 
- - species: solgaleo 
-  	 gen: vii 
-  	 foundAs: cosmog 
-  	 types: 
-  	 - psychic 
-  	 - steel 
- - species: golisopod 
-  	 gen: vii 
-  	 foundAs: wimpod 
-  	 types: 
-  	 - bug 
-  	 - water 
- - species: tapu-bulu 
-  	 gen: vii 
-  	 types: 
-  	 - grass 
-  	 - fairy 
- - species: aromatisse 
-  	 gen: vi 
-  	 foundAs: spritzee 
-  	 types: 
-  	 - fairy 
- - species: gogoat 
-  	 gen: vi 
-  	 foundAs: skiddo 
-  	 types: 
-  	 - grass 
- - species: talonflame 
-  	 gen: vi 
-  	 foundAs: fletchling 
-  	 types: 
-  	 - fire 
-  	 - flying 
- - species: palossand 
-  	 gen: vii 
-  	 foundAs: sandygast 
-  	 types: 
-  	 - ghost 
-  	 - ground 
- - species: silvally 
-  	 gen: vii 
-  	 foundAs: type-null 
-  	 types: 
-  	 - normal 
- - species: klefki 
-  	 gen: vi 
-  	 types: 
-  	 - steel 
-  	 - fairy 
- - species: mudsdale 
-  	 gen: vii 
-  	 foundAs: mudbray 
-  	 types: 
-  	 - ground 
- - species: blacephalon 
-  	 gen: vii 
-  	 types: 
-  	 - fire 
-  	 - ghost 
- - species: tyrantrum 
-  	 gen: vi 
-  	 foundAs: tyrunt 
-  	 types: 
-  	 - rock 
-  	 - dragon 
- - species: xerneas 
-  	 gen: vi 
-  	 types: 
-  	 - fairy 
- - species: dhelmise 
-  	 gen: vii 
-  	 types: 
-  	 - ghost 
-  	 - grass 
- - species: zeraora 
-  	 gen: vii 
-  	 types: 
-  	 - electric 
- - species: zygarde 
-  	 gen: vi 
-  	 types: 
-  	 - dragon 
-  	 - ground 
- - species: oranguru 
-  	 gen: vii 
-  	 types: 
-  	 - normal 
-  	 - psychic 
- - species: volcanion 
-  	 gen: vi 
-  	 types: 
-  	 - fire 
-  	 - water 
- - species: trevenant 
-  	 gen: vi 
-  	 foundAs: phantump 
-  	 types: 
-  	 - ghost 
-  	 - grass 
  - species: clawitzer 
   	 gen: vi 
   	 foundAs: clauncher 
   	 types: 
   	 - water 
+ - species: yveltal 
+  	 gen: vi 
+  	 types: 
+  	 - dark 
+  	 - flying 
  - species: vivillon 
   	 gen: vi 
   	 foundAs: scatterbug 
@@ -2026,319 +870,1503 @@
   	 types: 
   	 - bug 
   	 - electric 
- - species: greninja 
+ - species: archeops 
+  	 gen: v 
+  	 foundAs: archen 
+  	 types: 
+  	 - rock 
+  	 - flying 
+ - species: talonflame 
   	 gen: vi 
-  	 foundAs: froakie 
+  	 foundAs: fletchling 
+  	 types: 
+  	 - fire 
+  	 - flying 
+ - species: carbink 
+  	 gen: vi 
+  	 types: 
+  	 - rock 
+  	 - fairy 
+ - species: zygarde 
+  	 gen: vi 
+  	 types: 
+  	 - dragon 
+  	 - ground 
+ - species: klinklang 
+  	 gen: v 
+  	 foundAs: klink 
+  	 types: 
+  	 - steel 
+ - species: carracosta 
+  	 gen: v 
+  	 foundAs: tirtouga 
   	 types: 
   	 - water 
-  	 - dark 
- - species: vikavolt 
-  	 gen: vii 
-  	 foundAs: grubbin 
-  	 types: 
-  	 - bug 
-  	 - electric 
- - species: naganadel 
-  	 gen: vii 
-  	 foundAs: poipole 
-  	 types: 
-  	 - poison 
-  	 - dragon 
+  	 - rock 
  - species: heliolisk 
   	 gen: vi 
   	 foundAs: helioptile 
   	 types: 
   	 - electric 
   	 - normal 
- - species: chesnaught 
-  	 gen: vi 
-  	 foundAs: chespin 
+ - species: honchkrow 
+  	 gen: iv 
+  	 foundAs: murkrow 
   	 types: 
-  	 - grass 
-  	 - fighting 
- - species: araquanid 
-  	 gen: vii 
-  	 foundAs: dewpider 
-  	 types: 
-  	 - water 
-  	 - bug 
- - species: slurpuff 
-  	 gen: vi 
-  	 foundAs: swirlix 
-  	 types: 
-  	 - fairy 
- - species: kartana 
-  	 gen: vii 
-  	 types: 
-  	 - grass 
-  	 - steel 
- - species: pangoro 
-  	 gen: vi 
-  	 foundAs: pancham 
-  	 types: 
-  	 - fighting 
   	 - dark 
+  	 - flying 
+ - species: diancie 
+  	 gen: vi 
+  	 types: 
+  	 - rock 
+  	 - fairy 
+ - species: mew 
+  	 gen: i 
+  	 types: 
+  	 - psychic 
+ - species: victini 
+  	 gen: v 
+  	 types: 
+  	 - psychic 
+  	 - fire 
  - species: diggersby 
   	 gen: vi 
   	 foundAs: bunnelby 
   	 types: 
   	 - normal 
   	 - ground 
+ - species: zebstrika 
+  	 gen: v 
+  	 foundAs: blitzle 
+  	 types: 
+  	 - electric 
  - species: malamar 
   	 gen: vi 
   	 foundAs: inkay 
   	 types: 
   	 - dark 
   	 - psychic 
- - species: zoroark 
+ - species: reuniclus 
   	 gen: v 
-  	 foundAs: zorua 
-  	 types: 
-  	 - dark 
- - species: furfrou 
-  	 gen: vi 
-  	 types: 
-  	 - normal 
- - species: bouffalant 
-  	 gen: v 
-  	 types: 
-  	 - normal 
- - species: mandibuzz 
-  	 gen: v 
-  	 foundAs: vullaby 
-  	 types: 
-  	 - dark 
-  	 - flying 
- - species: tsareena 
-  	 gen: vii 
-  	 foundAs: bounsweet 
-  	 types: 
-  	 - grass 
- - species: hoopa 
-  	 gen: vi 
+  	 foundAs: solosis 
   	 types: 
   	 - psychic 
-  	 - ghost 
- - species: braviary 
-  	 gen: v 
-  	 foundAs: rufflet 
+ - species: greninja 
+  	 gen: vi 
+  	 foundAs: froakie 
   	 types: 
-  	 - normal 
-  	 - flying 
- - species: drampa 
-  	 gen: vii 
-  	 types: 
-  	 - normal 
-  	 - dragon 
- - species: volcarona 
-  	 gen: v 
-  	 foundAs: larvesta 
+  	 - water 
+  	 - dark 
+ - species: yanmega 
+  	 gen: iv 
+  	 foundAs: yanma 
   	 types: 
   	 - bug 
-  	 - fire 
- - species: magearna 
-  	 gen: vii 
+  	 - flying 
+ - species: octillery 
+  	 gen: ii 
+  	 foundAs: remoraid 
   	 types: 
-  	 - steel 
-  	 - fairy 
- - species: cobalion 
-  	 gen: v 
-  	 types: 
-  	 - steel 
-  	 - fighting 
- - species: avalugg 
-  	 gen: vi 
-  	 foundAs: bergmite 
-  	 types: 
-  	 - ice 
- - species: dragalge 
-  	 gen: vi 
-  	 foundAs: skrelp 
-  	 types: 
-  	 - poison 
-  	 - dragon 
- - species: zekrom 
-  	 gen: v 
-  	 types: 
-  	 - dragon 
-  	 - electric 
- - species: shiinotic 
-  	 gen: vii 
-  	 foundAs: morelull 
+  	 - water 
+ - species: sunflora 
+  	 gen: ii 
+  	 foundAs: sunkern 
   	 types: 
   	 - grass 
-  	 - fairy 
- - species: hawlucha 
-  	 gen: vi 
+ - species: escavalier 
+  	 gen: v 
+  	 foundAs: karrablast 
+  	 types: 
+  	 - bug 
+  	 - steel 
+ - species: lucario 
+  	 gen: iv 
+  	 foundAs: riolu 
   	 types: 
   	 - fighting 
-  	 - flying 
- - species: golurk 
+  	 - steel 
+ - species: crustle 
   	 gen: v 
-  	 foundAs: golett 
+  	 foundAs: dwebble 
   	 types: 
-  	 - ground 
-  	 - ghost 
+  	 - bug 
+  	 - rock 
+ - species: virizion 
+  	 gen: v 
+  	 types: 
+  	 - grass 
+  	 - fighting 
+ - species: throh 
+  	 gen: v 
+  	 types: 
+  	 - fighting 
+ - species: durant 
+  	 gen: v 
+  	 types: 
+  	 - bug 
+  	 - steel 
+ - species: aurorus 
+  	 gen: vi 
+  	 foundAs: amaura 
+  	 types: 
+  	 - rock 
+  	 - ice 
+ - species: swoobat 
+  	 gen: v 
+  	 foundAs: woobat 
+  	 types: 
+  	 - psychic 
+  	 - flying 
+ - species: ho-oh 
+  	 gen: ii 
+  	 types: 
+  	 - fire 
+  	 - flying 
+ - species: raikou 
+  	 gen: ii 
+  	 types: 
+  	 - electric 
  - species: barbaracle 
   	 gen: vi 
   	 foundAs: binacle 
   	 types: 
   	 - rock 
   	 - water 
- - species: florges 
-  	 gen: vi 
-  	 foundAs: flabebe 
-  	 types: 
-  	 - fairy 
- - species: goodra 
-  	 gen: vi 
-  	 foundAs: goomy 
+ - species: haxorus 
+  	 gen: v 
+  	 foundAs: axew 
   	 types: 
   	 - dragon 
- - species: xatu 
-  	 gen: ii 
-  	 foundAs: natu 
+ - species: hawlucha 
+  	 gen: vi 
   	 types: 
-  	 - psychic 
+  	 - fighting 
   	 - flying 
- - species: lugia 
-  	 gen: ii 
-  	 types: 
-  	 - psychic 
-  	 - flying 
- - species: mewtwo 
-  	 gen: i 
-  	 types: 
-  	 - psychic 
- - species: registeel 
+ - species: torkoal 
   	 gen: iii 
   	 types: 
-  	 - steel 
- - species: smeargle 
-  	 gen: ii 
+  	 - fire 
+ - species: cradily 
+  	 gen: iii 
+  	 foundAs: lileep 
+  	 types: 
+  	 - rock 
+  	 - grass 
+ - species: armaldo 
+  	 gen: iii 
+  	 foundAs: anorith 
+  	 types: 
+  	 - rock 
+  	 - bug 
+ - species: masquerain 
+  	 gen: iii 
+  	 foundAs: surskit 
+  	 types: 
+  	 - bug 
+  	 - flying 
+ - species: wailord 
+  	 gen: iii 
+  	 foundAs: wailmer 
+  	 types: 
+  	 - water 
+ - species: pelipper 
+  	 gen: iii 
+  	 foundAs: wingull 
+  	 types: 
+  	 - water 
+  	 - flying 
+ - species: whiscash 
+  	 gen: iii 
+  	 foundAs: barboach 
+  	 types: 
+  	 - water 
+  	 - ground 
+ - species: chesnaught 
+  	 gen: vi 
+  	 foundAs: chespin 
+  	 types: 
+  	 - grass 
+  	 - fighting 
+ - species: mandibuzz 
+  	 gen: v 
+  	 foundAs: vullaby 
+  	 types: 
+  	 - dark 
+  	 - flying 
+ - species: delcatty 
+  	 gen: iii 
+  	 foundAs: skitty 
   	 types: 
   	 - normal 
- - species: gardevoir 
-  	 gen: iii 
-  	 foundAs: ralts 
-  	 types: 
-  	 - psychic 
-  	 - fairy 
- - species: solrock 
+ - species: luvdisc 
   	 gen: iii 
   	 types: 
-  	 - rock 
-  	 - psychic 
- - species: mamoswine 
-  	 gen: iv 
-  	 foundAs: swinub 
+  	 - water 
+ - species: braviary 
+  	 gen: v 
+  	 foundAs: rufflet 
   	 types: 
-  	 - ice 
-  	 - ground 
- - species: shedinja 
+  	 - normal 
+  	 - flying 
+ - species: mightyena 
   	 gen: iii 
-  	 foundAs: nincada 
+  	 foundAs: poochyena 
   	 types: 
-  	 - bug 
-  	 - ghost 
- - species: tyranitar 
-  	 gen: ii 
-  	 foundAs: larvitar 
-  	 types: 
-  	 - rock 
   	 - dark 
- - species: lunatone 
+ - species: jumpluff 
+  	 gen: ii 
+  	 foundAs: hoppip 
+  	 types: 
+  	 - grass 
+  	 - flying 
+ - species: krookodile 
+  	 gen: v 
+  	 foundAs: sandile 
+  	 types: 
+  	 - ground 
+  	 - dark 
+ - species: plusle 
   	 gen: iii 
   	 types: 
-  	 - rock 
-  	 - psychic 
- - species: heracross 
-  	 gen: ii 
+  	 - electric 
+ - species: manectric 
+  	 gen: iii 
+  	 foundAs: electrike 
   	 types: 
-  	 - bug 
-  	 - fighting 
+  	 - electric 
  - species: ninjask 
   	 gen: iii 
   	 foundAs: nincada 
   	 types: 
   	 - bug 
   	 - flying 
- - species: exploud 
-  	 gen: iii 
-  	 foundAs: whismur 
+ - species: purugly 
+  	 gen: iv 
+  	 foundAs: glameow 
   	 types: 
   	 - normal 
+ - species: vespiquen 
+  	 gen: iv 
+  	 foundAs: combee 
+  	 types: 
+  	 - bug 
+  	 - flying 
+ - species: azelf 
+  	 gen: iv 
+  	 types: 
+  	 - psychic 
+ - species: scrafty 
+  	 gen: v 
+  	 foundAs: scraggy 
+  	 types: 
+  	 - dark 
+  	 - fighting 
+ - species: genesect 
+  	 gen: v 
+  	 types: 
+  	 - bug 
+  	 - steel 
+ - species: kyurem 
+  	 gen: v 
+  	 types: 
+  	 - dragon 
+  	 - ice 
+ - species: stantler 
+  	 gen: ii 
+  	 types: 
+  	 - normal 
+ - species: hydreigon 
+  	 gen: v 
+  	 foundAs: deino 
+  	 types: 
+  	 - dark 
+  	 - dragon 
+ - species: gallade 
+  	 gen: iv 
+  	 foundAs: ralts 
+  	 types: 
+  	 - psychic 
+  	 - fighting 
+ - species: seviper 
+  	 gen: iii 
+  	 types: 
+  	 - poison 
+ - species: lunatone 
+  	 gen: iii 
+  	 types: 
+  	 - rock 
+  	 - psychic 
+ - species: grumpig 
+  	 gen: iii 
+  	 foundAs: spoink 
+  	 types: 
+  	 - psychic 
+ - species: claydol 
+  	 gen: iii 
+  	 foundAs: baltoy 
+  	 types: 
+  	 - ground 
+  	 - psychic 
+ - species: breloom 
+  	 gen: iii 
+  	 foundAs: shroomish 
+  	 types: 
+  	 - grass 
+  	 - fighting 
+ - species: illumise 
+  	 gen: iii 
+  	 types: 
+  	 - bug 
+ - species: swalot 
+  	 gen: iii 
+  	 foundAs: gulpin 
+  	 types: 
+  	 - poison 
+ - species: flygon 
+  	 gen: iii 
+  	 foundAs: trapinch 
+  	 types: 
+  	 - ground 
+  	 - dragon 
+ - species: cacturne 
+  	 gen: iii 
+  	 foundAs: cacnea 
+  	 types: 
+  	 - grass 
+  	 - dark 
  - species: hariyama 
   	 gen: iii 
   	 foundAs: makuhita 
   	 types: 
   	 - fighting 
- - species: wailord 
+ - species: spinda 
   	 gen: iii 
-  	 foundAs: wailmer 
   	 types: 
-  	 - water 
- - species: hitmontop 
-  	 gen: ii 
-  	 foundAs: tyrogue 
+  	 - normal 
+ - species: medicham 
+  	 gen: iii 
+  	 foundAs: meditite 
   	 types: 
   	 - fighting 
- - species: raikou 
-  	 gen: ii 
+  	 - psychic 
+ - species: bisharp 
+  	 gen: v 
+  	 foundAs: pawniard 
   	 types: 
-  	 - electric 
- - species: fearow 
-  	 gen: i 
-  	 foundAs: spearow 
+  	 - dark 
+  	 - steel 
+ - species: lopunny 
+  	 gen: iv 
+  	 foundAs: buneary 
+  	 types: 
+  	 - normal 
+ - species: staraptor 
+  	 gen: iv 
+  	 foundAs: starly 
   	 types: 
   	 - normal 
   	 - flying 
- - species: kabutops 
-  	 gen: i 
-  	 foundAs: kabuto 
+ - species: drifblim 
+  	 gen: iv 
+  	 foundAs: drifloon 
+  	 types: 
+  	 - ghost 
+  	 - flying 
+ - species: skuntank 
+  	 gen: iv 
+  	 foundAs: stunky 
+  	 types: 
+  	 - poison 
+  	 - dark 
+ - species: bastiodon 
+  	 gen: iv 
+  	 foundAs: shieldon 
   	 types: 
   	 - rock 
-  	 - water 
- - species: lanturn 
-  	 gen: ii 
-  	 foundAs: chinchou 
+  	 - steel 
+ - species: gastrodon 
+  	 gen: iv 
+  	 foundAs: shellos 
   	 types: 
   	 - water 
+  	 - ground 
+ - species: pachirisu 
+  	 gen: iv 
+  	 types: 
   	 - electric 
- - species: volbeat 
+ - species: serperior 
+  	 gen: v 
+  	 foundAs: snivy 
+  	 types: 
+  	 - grass 
+ - species: exploud 
+  	 gen: iii 
+  	 foundAs: whismur 
+  	 types: 
+  	 - normal 
+ - species: sigilyph 
+  	 gen: v 
+  	 types: 
+  	 - psychic 
+  	 - flying 
+ - species: roserade 
+  	 gen: iv 
+  	 foundAs: budew 
+  	 types: 
+  	 - grass 
+  	 - poison 
+ - species: pyroar 
+  	 gen: vi 
+  	 foundAs: litleo 
+  	 types: 
+  	 - fire 
+  	 - normal 
+ - species: slaking 
+  	 gen: iii 
+  	 foundAs: slakoth 
+  	 types: 
+  	 - normal 
+ - species: suicune 
+  	 gen: ii 
+  	 types: 
+  	 - water 
+ - species: amoonguss 
+  	 gen: v 
+  	 foundAs: foongus 
+  	 types: 
+  	 - grass 
+  	 - poison 
+ - species: bouffalant 
+  	 gen: v 
+  	 types: 
+  	 - normal 
+ - species: runerigus 
+  	 gen: viii 
+  	 foundAs: yamask 
+  	 types: 
+  	 - ground 
+  	 - ghost 
+ - species: zangoose 
   	 gen: iii 
   	 types: 
-  	 - bug 
+  	 - normal 
  - species: mawile 
   	 gen: iii 
   	 types: 
   	 - steel 
   	 - fairy 
- - species: octillery 
-  	 gen: ii 
-  	 foundAs: remoraid 
+ - species: kecleon 
+  	 gen: iii 
+  	 types: 
+  	 - normal 
+ - species: sableye 
+  	 gen: iii 
+  	 types: 
+  	 - dark 
+  	 - ghost 
+ - species: jirachi 
+  	 gen: iii 
+  	 types: 
+  	 - steel 
+  	 - psychic 
+ - species: milotic 
+  	 gen: iii 
+  	 foundAs: feebas 
   	 types: 
   	 - water 
+ - species: heracross 
+  	 gen: ii 
+  	 types: 
+  	 - bug 
+  	 - fighting 
+ - species: palkia 
+  	 gen: iv 
+  	 types: 
+  	 - water 
+  	 - dragon 
+ - species: beheeyem 
+  	 gen: v 
+  	 foundAs: elgyem 
+  	 types: 
+  	 - psychic 
+ - species: pangoro 
+  	 gen: vi 
+  	 foundAs: pancham 
+  	 types: 
+  	 - fighting 
+  	 - dark 
+ - species: vaporeon 
+  	 gen: i 
+  	 foundAs: eevee 
+  	 types: 
+  	 - water 
+ - species: solrock 
+  	 gen: iii 
+  	 types: 
+  	 - rock 
+  	 - psychic 
+ - species: altaria 
+  	 gen: iii 
+  	 foundAs: swablu 
+  	 types: 
+  	 - dragon 
+  	 - flying 
+ - species: entei 
+  	 gen: ii 
+  	 types: 
+  	 - fire 
+ - species: terrakion 
+  	 gen: v 
+  	 types: 
+  	 - rock 
+  	 - fighting 
+ - species: rayquaza 
+  	 gen: iii 
+  	 types: 
+  	 - dragon 
+  	 - flying 
+ - species: houndoom 
+  	 gen: ii 
+  	 foundAs: houndour 
+  	 types: 
+  	 - dark 
+  	 - fire 
+ - species: salamence 
+  	 gen: iii 
+  	 foundAs: bagon 
+  	 types: 
+  	 - dragon 
+  	 - flying 
+ - species: chimecho 
+  	 gen: iii 
+  	 foundAs: chingling 
+  	 types: 
+  	 - psychic 
+ - species: minun 
+  	 gen: iii 
+  	 types: 
+  	 - electric 
+ - species: bronzong 
+  	 gen: iv 
+  	 foundAs: bronzor 
+  	 types: 
+  	 - steel 
+  	 - psychic 
+ - species: empoleon 
+  	 gen: iv 
+  	 foundAs: piplup 
+  	 types: 
+  	 - water 
+  	 - steel 
+ - species: banette 
+  	 gen: iii 
+  	 foundAs: shuppet 
+  	 types: 
+  	 - ghost 
+ - species: shuckle 
+  	 gen: ii 
+  	 types: 
+  	 - bug 
+  	 - rock 
+ - species: sharpedo 
+  	 gen: iii 
+  	 foundAs: carvanha 
+  	 types: 
+  	 - water 
+  	 - dark 
+ - species: lumineon 
+  	 gen: iv 
+  	 foundAs: finneon 
+  	 types: 
+  	 - water 
+ - species: torterra 
+  	 gen: iv 
+  	 foundAs: turtwig 
+  	 types: 
+  	 - grass 
+  	 - ground 
  - species: probopass 
   	 gen: iv 
   	 foundAs: nosepass 
   	 types: 
   	 - rock 
   	 - steel 
- - species: wobbuffet 
-  	 gen: ii 
-  	 foundAs: wynaut 
-  	 types: 
-  	 - psychic 
- - species: forretress 
-  	 gen: ii 
-  	 foundAs: pineco 
+ - species: shedinja 
+  	 gen: iii 
+  	 foundAs: nincada 
   	 types: 
   	 - bug 
+  	 - ghost 
+ - species: shiftry 
+  	 gen: iii 
+  	 foundAs: seedot 
+  	 types: 
+  	 - grass 
+  	 - dark 
+ - species: swampert 
+  	 gen: iii 
+  	 foundAs: mudkip 
+  	 types: 
+  	 - water 
+  	 - ground 
+ - species: qwilfish 
+  	 gen: ii 
+  	 types: 
+  	 - water 
+  	 - poison 
+ - species: whimsicott 
+  	 gen: v 
+  	 foundAs: cottonee 
+  	 types: 
+  	 - grass 
+  	 - fairy 
+ - species: girafarig 
+  	 gen: ii 
+  	 types: 
+  	 - normal 
+  	 - psychic 
+ - species: groudon 
+  	 gen: iii 
+  	 types: 
+  	 - ground 
+ - species: cherrim 
+  	 gen: iv 
+  	 foundAs: cherubi 
+  	 types: 
+  	 - grass 
+ - species: celebi 
+  	 gen: ii 
+  	 types: 
+  	 - psychic 
+  	 - grass 
+ - species: vanilluxe 
+  	 gen: v 
+  	 foundAs: vanillite 
+  	 types: 
+  	 - ice 
+ - species: sceptile 
+  	 gen: iii 
+  	 foundAs: treecko 
+  	 types: 
+  	 - grass 
+ - species: conkeldurr 
+  	 gen: v 
+  	 foundAs: timburr 
+  	 types: 
+  	 - fighting 
+ - species: stoutland 
+  	 gen: v 
+  	 foundAs: lillipup 
+  	 types: 
+  	 - normal 
+ - species: excadrill 
+  	 gen: v 
+  	 foundAs: drilbur 
+  	 types: 
+  	 - ground 
   	 - steel 
+ - species: scolipede 
+  	 gen: v 
+  	 foundAs: venipede 
+  	 types: 
+  	 - bug 
+  	 - poison 
+ - species: floatzel 
+  	 gen: iv 
+  	 foundAs: buizel 
+  	 types: 
+  	 - water 
+ - species: tyranitar 
+  	 gen: ii 
+  	 foundAs: larvitar 
+  	 types: 
+  	 - rock 
+  	 - dark 
+ - species: ferrothorn 
+  	 gen: v 
+  	 foundAs: ferroseed 
+  	 types: 
+  	 - grass 
+  	 - steel 
+ - species: simisage 
+  	 gen: v 
+  	 foundAs: pansage 
+  	 types: 
+  	 - grass 
  - species: reshiram 
   	 gen: v 
   	 types: 
   	 - dragon 
   	 - fire 
+ - species: sawk 
+  	 gen: v 
+  	 types: 
+  	 - fighting 
+ - species: heatmor 
+  	 gen: v 
+  	 types: 
+  	 - fire 
+ - species: accelgor 
+  	 gen: v 
+  	 foundAs: shelmet 
+  	 types: 
+  	 - bug 
+ - species: maractus 
+  	 gen: v 
+  	 types: 
+  	 - grass 
+ - species: chandelure 
+  	 gen: v 
+  	 foundAs: litwick 
+  	 types: 
+  	 - ghost 
+  	 - fire 
+ - species: cobalion 
+  	 gen: v 
+  	 types: 
+  	 - steel 
+  	 - fighting 
+ - species: luxray 
+  	 gen: iv 
+  	 foundAs: shinx 
+  	 types: 
+  	 - electric 
+ - species: druddigon 
+  	 gen: v 
+  	 types: 
+  	 - dragon 
+ - species: beartic 
+  	 gen: v 
+  	 foundAs: cubchoo 
+  	 types: 
+  	 - ice 
+ - species: delphox 
+  	 gen: vi 
+  	 foundAs: fennekin 
+  	 types: 
+  	 - fire 
+  	 - psychic 
+ - species: zekrom 
+  	 gen: v 
+  	 types: 
+  	 - dragon 
+  	 - electric 
+ - species: volcarona 
+  	 gen: v 
+  	 foundAs: larvesta 
+  	 types: 
+  	 - bug 
+  	 - fire 
+ - species: simisear 
+  	 gen: v 
+  	 foundAs: pansear 
+  	 types: 
+  	 - fire 
+ - species: golurk 
+  	 gen: v 
+  	 foundAs: golett 
+  	 types: 
+  	 - ground 
+  	 - ghost 
+ - species: bibarel 
+  	 gen: iv 
+  	 foundAs: bidoof 
+  	 types: 
+  	 - normal 
+  	 - water 
+ - species: kricketune 
+  	 gen: iv 
+  	 foundAs: kricketot 
+  	 types: 
+  	 - bug 
+ - species: mothim 
+  	 gen: iv 
+  	 foundAs: burmy 
+  	 types: 
+  	 - bug 
+  	 - flying 
+ - species: emolga 
+  	 gen: v 
+  	 types: 
+  	 - electric 
+  	 - flying 
+ - species: cofagrigus 
+  	 gen: v 
+  	 foundAs: yamask 
+  	 types: 
+  	 - ghost 
+ - species: gorebyss 
+  	 gen: iii 
+  	 foundAs: clamperl 
+  	 types: 
+  	 - water 
+ - species: regirock 
+  	 gen: iii 
+  	 types: 
+  	 - rock 
+ - species: dialga 
+  	 gen: iv 
+  	 types: 
+  	 - steel 
+  	 - dragon 
+ - species: rotom 
+  	 gen: iv 
+  	 types: 
+  	 - electric 
+  	 - ghost 
+ - species: rampardos 
+  	 gen: iv 
+  	 foundAs: cranidos 
+  	 types: 
+  	 - rock 
+ - species: chatot 
+  	 gen: iv 
+  	 types: 
+  	 - normal 
+  	 - flying 
+ - species: dusknoir 
+  	 gen: iv 
+  	 foundAs: duskull 
+  	 types: 
+  	 - ghost 
+ - species: zoroark 
+  	 gen: v 
+  	 foundAs: zorua 
+  	 types: 
+  	 - dark 
+ - species: mienshao 
+  	 gen: v 
+  	 foundAs: mienfoo 
+  	 types: 
+  	 - fighting 
+ - species: manaphy 
+  	 gen: iv 
+  	 foundAs: phione 
+  	 types: 
+  	 - water 
+ - species: walrein 
+  	 gen: iii 
+  	 foundAs: spheal 
+  	 types: 
+  	 - ice 
+  	 - water 
+ - species: infernape 
+  	 gen: iv 
+  	 foundAs: chimchar 
+  	 types: 
+  	 - fire 
+  	 - fighting 
+ - species: metagross 
+  	 gen: iii 
+  	 foundAs: beldum 
+  	 types: 
+  	 - steel 
+  	 - psychic 
+ - species: relicanth 
+  	 gen: iii 
+  	 types: 
+  	 - water 
+  	 - rock 
+ - species: latias 
+  	 gen: iii 
+  	 types: 
+  	 - dragon 
+  	 - psychic 
+ - species: audino 
+  	 gen: v 
+  	 types: 
+  	 - normal 
+ - species: absol 
+  	 gen: iii 
+  	 types: 
+  	 - dark 
+ - species: gothitelle 
+  	 gen: v 
+  	 foundAs: gothita 
+  	 types: 
+  	 - psychic 
+ - species: liepard 
+  	 gen: v 
+  	 foundAs: purrloin 
+  	 types: 
+  	 - dark 
+ - species: unfezant 
+  	 gen: v 
+  	 foundAs: pidove 
+  	 types: 
+  	 - normal 
+  	 - flying 
+ - species: alomomola 
+  	 gen: v 
+  	 types: 
+  	 - water 
+ - species: watchog 
+  	 gen: v 
+  	 foundAs: patrat 
+  	 types: 
+  	 - normal 
+ - species: cresselia 
+  	 gen: iv 
+  	 types: 
+  	 - psychic 
+ - species: emboar 
+  	 gen: v 
+  	 foundAs: tepig 
+  	 types: 
+  	 - fire 
+  	 - fighting 
+ - species: spiritomb 
+  	 gen: iv 
+  	 types: 
+  	 - ghost 
+  	 - dark 
+ - species: uxie 
+  	 gen: iv 
+  	 types: 
+  	 - psychic 
+ - species: garchomp 
+  	 gen: iv 
+  	 foundAs: gible 
+  	 types: 
+  	 - dragon 
+  	 - ground 
+ - species: drapion 
+  	 gen: iv 
+  	 foundAs: skorupi 
+  	 types: 
+  	 - poison 
+  	 - dark 
+ - species: regigigas 
+  	 gen: iv 
+  	 types: 
+  	 - normal 
+ - species: toxicroak 
+  	 gen: iv 
+  	 foundAs: croagunk 
+  	 types: 
+  	 - poison 
+  	 - fighting 
+ - species: heatran 
+  	 gen: iv 
+  	 types: 
+  	 - fire 
+  	 - steel 
+ - species: mesprit 
+  	 gen: iv 
+  	 types: 
+  	 - psychic 
+ - species: arceus 
+  	 gen: iv 
+  	 types: 
+  	 - normal 
+ - species: darkrai 
+  	 gen: iv 
+  	 types: 
+  	 - dark 
+ - species: abomasnow 
+  	 gen: iv 
+  	 foundAs: snover 
+  	 types: 
+  	 - grass 
+  	 - ice 
+ - species: hippowdon 
+  	 gen: iv 
+  	 foundAs: hippopotas 
+  	 types: 
+  	 - ground 
+ - species: smeargle 
+  	 gen: ii 
+  	 types: 
+  	 - normal 
+ - species: copperajah 
+  	 gen: viii 
+  	 foundAs: cufant 
+  	 types: 
+  	 - steel 
+ - species: frosmoth 
+  	 gen: viii 
+  	 foundAs: snom 
+  	 types: 
+  	 - ice 
+  	 - bug 
+ - species: alcremie 
+  	 gen: viii 
+  	 foundAs: milcery 
+  	 types: 
+  	 - fairy 
+ - species: naganadel 
+  	 gen: vii 
+  	 foundAs: poipole 
+  	 types: 
+  	 - poison 
+  	 - dragon 
+ - species: guzzlord 
+  	 gen: vii 
+  	 types: 
+  	 - dark 
+  	 - dragon 
+ - species: tapu-lele 
+  	 gen: vii 
+  	 types: 
+  	 - psychic 
+  	 - fairy 
+ - species: stakataka 
+  	 gen: vii 
+  	 types: 
+  	 - rock 
+  	 - steel 
+ - species: drampa 
+  	 gen: vii 
+  	 types: 
+  	 - normal 
+  	 - dragon 
+ - species: pyukumuku 
+  	 gen: vii 
+  	 types: 
+  	 - water 
+ - species: melmetal 
+  	 gen: vii 
+  	 foundAs: meltan 
+  	 types: 
+  	 - steel 
+ - species: araquanid 
+  	 gen: vii 
+  	 foundAs: dewpider 
+  	 types: 
+  	 - water 
+  	 - bug 
+ - species: bewear 
+  	 gen: vii 
+  	 foundAs: stufful 
+  	 types: 
+  	 - normal 
+  	 - fighting 
+ - species: volcanion 
+  	 gen: vi 
+  	 types: 
+  	 - fire 
+  	 - water 
+ - species: palossand 
+  	 gen: vii 
+  	 foundAs: sandygast 
+  	 types: 
+  	 - ghost 
+  	 - ground 
+ - species: tyrantrum 
+  	 gen: vi 
+  	 foundAs: tyrunt 
+  	 types: 
+  	 - rock 
+  	 - dragon 
+ - species: florges 
+  	 gen: vi 
+  	 foundAs: flabebe 
+  	 types: 
+  	 - fairy 
+ - species: oranguru 
+  	 gen: vii 
+  	 types: 
+  	 - normal 
+  	 - psychic 
+ - species: corviknight 
+  	 gen: viii 
+  	 foundAs: rookidee 
+  	 types: 
+  	 - flying 
+  	 - steel 
+ - species: zeraora 
+  	 gen: vii 
+  	 types: 
+  	 - electric 
+ - species: turtonator 
+  	 gen: vii 
+  	 types: 
+  	 - fire 
+  	 - dragon 
+ - species: carnivine 
+  	 gen: iv 
+  	 types: 
+  	 - grass 
+ - species: xurkitree 
+  	 gen: vii 
+  	 types: 
+  	 - electric 
+ - species: incineroar 
+  	 gen: vii 
+  	 foundAs: litten 
+  	 types: 
+  	 - fire 
+  	 - dark 
+ - species: slurpuff 
+  	 gen: vi 
+  	 foundAs: swirlix 
+  	 types: 
+  	 - fairy 
+ - species: kommo-o 
+  	 gen: vii 
+  	 foundAs: jangmo-o 
+  	 types: 
+  	 - dragon 
+  	 - fighting 
+ - species: solgaleo 
+  	 gen: vii 
+  	 foundAs: cosmog 
+  	 types: 
+  	 - psychic 
+  	 - steel 
+ - species: tapu-koko 
+  	 gen: vii 
+  	 types: 
+  	 - electric 
+  	 - fairy 
+ - species: nihilego 
+  	 gen: vii 
+  	 types: 
+  	 - rock 
+  	 - poison 
+ - species: primarina 
+  	 gen: vii 
+  	 foundAs: popplio 
+  	 types: 
+  	 - water 
+  	 - fairy 
+ - species: vikavolt 
+  	 gen: vii 
+  	 foundAs: grubbin 
+  	 types: 
+  	 - bug 
+  	 - electric 
+ - species: salazzle 
+  	 gen: vii 
+  	 foundAs: salandit 
+  	 types: 
+  	 - poison 
+  	 - fire 
+ - species: lunala 
+  	 gen: vii 
+  	 foundAs: cosmog 
+  	 types: 
+  	 - psychic 
+  	 - ghost 
+ - species: bruxish 
+  	 gen: vii 
+  	 types: 
+  	 - water 
+  	 - psychic 
+ - species: dragalge 
+  	 gen: vi 
+  	 foundAs: skrelp 
+  	 types: 
+  	 - poison 
+  	 - dragon 
+ - species: aromatisse 
+  	 gen: vi 
+  	 foundAs: spritzee 
+  	 types: 
+  	 - fairy 
+ - species: xerneas 
+  	 gen: vi 
+  	 types: 
+  	 - fairy 
+ - species: noivern 
+  	 gen: vi 
+  	 foundAs: noibat 
+  	 types: 
+  	 - flying 
+  	 - dragon 
+ - species: klefki 
+  	 gen: vi 
+  	 types: 
+  	 - steel 
+  	 - fairy 
+ - species: avalugg 
+  	 gen: vi 
+  	 foundAs: bergmite 
+  	 types: 
+  	 - ice 
+ - species: trevenant 
+  	 gen: vi 
+  	 foundAs: phantump 
+  	 types: 
+  	 - ghost 
+  	 - grass 
+ - species: gogoat 
+  	 gen: vi 
+  	 foundAs: skiddo 
+  	 types: 
+  	 - grass 
+ - species: magcargo 
+  	 gen: ii 
+  	 foundAs: slugma 
+  	 types: 
+  	 - fire 
+  	 - rock 
+ - species: skarmory 
+  	 gen: ii 
+  	 types: 
+  	 - steel 
+  	 - flying 
+ - species: hoopa 
+  	 gen: vi 
+  	 types: 
+  	 - psychic 
+  	 - ghost 
+ - species: raticate 
+  	 gen: i 
+  	 foundAs: rattata 
+  	 types: 
+  	 - normal 
+ - species: thievul 
+  	 gen: viii 
+  	 foundAs: nickit 
+  	 types: 
+  	 - dark 
+ - species: boltund 
+  	 gen: viii 
+  	 foundAs: yamper 
+  	 types: 
+  	 - electric 
+ - species: polteageist 
+  	 gen: viii 
+  	 foundAs: sinistea 
+  	 types: 
+  	 - ghost 
+ - species: dracozolt 
+  	 gen: viii 
+  	 types: 
+  	 - electric 
+  	 - dragon 
+ - species: morpeko 
+  	 gen: viii 
+  	 types: 
+  	 - electric 
+  	 - dark 
+ - species: appletun 
+  	 gen: viii 
+  	 foundAs: applin 
+  	 types: 
+  	 - grass 
+  	 - dragon 
+ - species: sandaconda 
+  	 gen: viii 
+  	 foundAs: silicobra 
+  	 types: 
+  	 - ground 
+ - species: barraskewda 
+  	 gen: viii 
+  	 foundAs: arrokuda 
+  	 types: 
+  	 - water 
+ - species: stonjourner 
+  	 gen: viii 
+  	 types: 
+  	 - rock 
+ - species: gumshoos 
+  	 gen: vii 
+  	 foundAs: yungoos 
+  	 types: 
+  	 - normal 
+ - species: blacephalon 
+  	 gen: vii 
+  	 types: 
+  	 - fire 
+  	 - ghost 
+ - species: marshadow 
+  	 gen: vii 
+  	 types: 
+  	 - fighting 
+  	 - ghost 
+ - species: eldegoss 
+  	 gen: viii 
+  	 foundAs: gossifleur 
+  	 types: 
+  	 - grass 
+ - species: grapploct 
+  	 gen: viii 
+  	 foundAs: clobbopus 
+  	 types: 
+  	 - fighting 
+ - species: dubwool 
+  	 gen: viii 
+  	 foundAs: wooloo 
+  	 types: 
+  	 - normal 
+ - species: hatterene 
+  	 gen: viii 
+  	 foundAs: hatenna 
+  	 types: 
+  	 - psychic 
+  	 - fairy 
+ - species: centiskorch 
+  	 gen: viii 
+  	 foundAs: sizzlipede 
+  	 types: 
+  	 - fire 
+  	 - bug 
+ - species: drednaw 
+  	 gen: viii 
+  	 foundAs: chewtle 
+  	 types: 
+  	 - water 
+  	 - rock 
+ - species: pincurchin 
+  	 gen: viii 
+  	 types: 
+  	 - electric 
+ - species: komala 
+  	 gen: vii 
+  	 types: 
+  	 - normal 
+ - species: falinks 
+  	 gen: viii 
+  	 types: 
+  	 - fighting 
+ - species: greedent 
+  	 gen: viii 
+  	 foundAs: skwovet 
+  	 types: 
+  	 - normal 
+ - species: cinderace 
+  	 gen: viii 
+  	 foundAs: scorbunny 
+  	 types: 
+  	 - fire 
+ - species: rillaboom 
+  	 gen: viii 
+  	 foundAs: grookey 
+  	 types: 
+  	 - grass 
+ - species: orbeetle 
+  	 gen: viii 
+  	 foundAs: blipbug 
+  	 types: 
+  	 - bug 
+  	 - psychic 
+ - species: tapu-bulu 
+  	 gen: vii 
+  	 types: 
+  	 - grass 
+  	 - fairy 
+ - species: inteleon 
+  	 gen: viii 
+  	 foundAs: sobble 
+  	 types: 
+  	 - water 
+ - species: cramorant 
+  	 gen: viii 
+  	 types: 
+  	 - flying 
+  	 - water 
+ - species: pheromosa 
+  	 gen: vii 
+  	 types: 
+  	 - bug 
+  	 - fighting 
+ - species: coalossal 
+  	 gen: viii 
+  	 foundAs: rolycoly 
+  	 types: 
+  	 - rock 
+  	 - fire 
+ - species: flapple 
+  	 gen: viii 
+  	 foundAs: applin 
+  	 types: 
+  	 - grass 
+  	 - dragon 
+ - species: magearna 
+  	 gen: vii 
+  	 types: 
+  	 - steel 
+  	 - fairy 
+ - species: tapu-fini 
+  	 gen: vii 
+  	 types: 
+  	 - water 
+  	 - fairy 
+ - species: lurantis 
+  	 gen: vii 
+  	 foundAs: fomantis 
+  	 types: 
+  	 - grass 
+ - species: golisopod 
+  	 gen: vii 
+  	 foundAs: wimpod 
+  	 types: 
+  	 - bug 
+  	 - water 
+ - species: grimmsnarl 
+  	 gen: viii 
+  	 foundAs: impidimp 
+  	 types: 
+  	 - dark 
+  	 - fairy 
+ - species: shiinotic 
+  	 gen: vii 
+  	 foundAs: morelull 
+  	 types: 
+  	 - grass 
+  	 - fairy 
+ - species: buzzwole 
+  	 gen: vii 
+  	 types: 
+  	 - bug 
+  	 - fighting 
+ - species: comfey 
+  	 gen: vii 
+  	 types: 
+  	 - fairy 
+ - species: stunfisk 
+  	 gen: v 
+  	 types: 
+  	 - ground 
+  	 - electric 
+ - species: togedemaru 
+  	 gen: vii 
+  	 types: 
+  	 - electric 
+  	 - steel 
+ - species: tsareena 
+  	 gen: vii 
+  	 foundAs: bounsweet 
+  	 types: 
+  	 - grass 
+ - species: dhelmise 
+  	 gen: vii 
+  	 types: 
+  	 - ghost 
+  	 - grass 
+ - species: celesteela 
+  	 gen: vii 
+  	 types: 
+  	 - steel 
+  	 - flying 
+ - species: passimian 
+  	 gen: vii 
+  	 types: 
+  	 - fighting 
+ - species: goodra 
+  	 gen: vi 
+  	 foundAs: goomy 
+  	 types: 
+  	 - dragon 
+ - species: mudsdale 
+  	 gen: vii 
+  	 foundAs: mudbray 
+  	 types: 
+  	 - ground 
+ - species: kartana 
+  	 gen: vii 
+  	 types: 
+  	 - grass 
+  	 - steel 
+ - species: necrozma 
+  	 gen: vii 
+  	 types: 
+  	 - psychic 
+ - species: silvally 
+  	 gen: vii 
+  	 foundAs: type-null 
+  	 types: 
+  	 - normal 
  
