@@ -1,5 +1,5 @@
 {
-  "name": "@higby/pokelocations",
+  "name": "@rainbowrocket-dev/pokelocations",
   "version": "1.0.0",
   "description": "Tool that generates a yaml file used for the Pokemon Team Planner",
   "main": "scrapper.min.js",
